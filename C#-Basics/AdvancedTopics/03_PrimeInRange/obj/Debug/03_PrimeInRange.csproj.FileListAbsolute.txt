@@ -1,0 +1,6 @@
+c:\users\alex\documents\visual studio 2012\Projects\CSharp-Advanced-Homework\03_PrimeInRange\bin\Debug\03_PrimeInRange.exe.config
+c:\users\alex\documents\visual studio 2012\Projects\CSharp-Advanced-Homework\03_PrimeInRange\obj\Debug\03_PrimeInRange.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2012\Projects\CSharp-Advanced-Homework\03_PrimeInRange\bin\Debug\03_PrimeInRange.exe
+c:\users\alex\documents\visual studio 2012\Projects\CSharp-Advanced-Homework\03_PrimeInRange\bin\Debug\03_PrimeInRange.pdb
+c:\users\alex\documents\visual studio 2012\Projects\CSharp-Advanced-Homework\03_PrimeInRange\obj\Debug\03_PrimeInRange.exe
+c:\users\alex\documents\visual studio 2012\Projects\CSharp-Advanced-Homework\03_PrimeInRange\obj\Debug\03_PrimeInRange.pdb
