@@ -1,0 +1,2 @@
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\02_StaticMembers\Geometry\bin\Debug\Geometry.exe.config
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\02_StaticMembers\Geometry\obj\Debug\Geometry.csprojResolveAssemblyReference.cache

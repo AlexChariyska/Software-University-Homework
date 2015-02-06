@@ -1,0 +1,6 @@
+c:\users\alex\documents\visual studio 2013\Projects\Inheritance\HumanStudentWorker\bin\Debug\HumanStudentWorker.exe.config
+c:\users\alex\documents\visual studio 2013\Projects\Inheritance\HumanStudentWorker\bin\Debug\HumanStudentWorker.exe
+c:\users\alex\documents\visual studio 2013\Projects\Inheritance\HumanStudentWorker\bin\Debug\HumanStudentWorker.pdb
+c:\users\alex\documents\visual studio 2013\Projects\Inheritance\HumanStudentWorker\obj\Debug\HumanStudentWorker.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2013\Projects\Inheritance\HumanStudentWorker\obj\Debug\HumanStudentWorker.exe
+c:\users\alex\documents\visual studio 2013\Projects\Inheritance\HumanStudentWorker\obj\Debug\HumanStudentWorker.pdb

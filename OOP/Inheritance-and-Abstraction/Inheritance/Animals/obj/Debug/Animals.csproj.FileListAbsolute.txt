@@ -1,0 +1,6 @@
+c:\users\alex\documents\visual studio 2013\Projects\Inheritance\Animals\bin\Debug\Animals.exe.config
+c:\users\alex\documents\visual studio 2013\Projects\Inheritance\Animals\bin\Debug\Animals.exe
+c:\users\alex\documents\visual studio 2013\Projects\Inheritance\Animals\bin\Debug\Animals.pdb
+c:\users\alex\documents\visual studio 2013\Projects\Inheritance\Animals\obj\Debug\Animals.exe
+c:\users\alex\documents\visual studio 2013\Projects\Inheritance\Animals\obj\Debug\Animals.pdb
+c:\users\alex\documents\visual studio 2013\Projects\Inheritance\Animals\obj\Debug\Animals.csprojResolveAssemblyReference.cache

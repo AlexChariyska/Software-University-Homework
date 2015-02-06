@@ -1,0 +1,6 @@
+c:\users\alex\documents\visual studio 2013\Projects\02_StaticMembers\01_Point\bin\Debug\01_Point.exe.config
+c:\users\alex\documents\visual studio 2013\Projects\02_StaticMembers\01_Point\bin\Debug\01_Point.exe
+c:\users\alex\documents\visual studio 2013\Projects\02_StaticMembers\01_Point\bin\Debug\01_Point.pdb
+c:\users\alex\documents\visual studio 2013\Projects\02_StaticMembers\01_Point\obj\Debug\01_Point.exe
+c:\users\alex\documents\visual studio 2013\Projects\02_StaticMembers\01_Point\obj\Debug\01_Point.pdb
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\02_StaticMembers\01_Point\obj\Debug\01_Point.csprojResolveAssemblyReference.cache
