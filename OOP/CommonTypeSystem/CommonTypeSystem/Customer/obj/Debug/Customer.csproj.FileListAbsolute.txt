@@ -1,0 +1,6 @@
+c:\users\alex\documents\visual studio 2013\Projects\CommonTypeSystem\Customer\bin\Debug\Customer.exe.config
+c:\users\alex\documents\visual studio 2013\Projects\CommonTypeSystem\Customer\obj\Debug\Customer.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2013\Projects\CommonTypeSystem\Customer\bin\Debug\Customer.exe
+c:\users\alex\documents\visual studio 2013\Projects\CommonTypeSystem\Customer\bin\Debug\Customer.pdb
+c:\users\alex\documents\visual studio 2013\Projects\CommonTypeSystem\Customer\obj\Debug\Customer.exe
+c:\users\alex\documents\visual studio 2013\Projects\CommonTypeSystem\Customer\obj\Debug\Customer.pdb
