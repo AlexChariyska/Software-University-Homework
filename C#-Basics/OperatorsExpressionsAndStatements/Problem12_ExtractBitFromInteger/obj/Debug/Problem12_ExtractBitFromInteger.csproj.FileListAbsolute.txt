@@ -1,0 +1,6 @@
+C:\Users\alex\documents\visual studio 2012\Projects\Operators-And-Expressions-Homework\Problem12_ExtractBitFromInteger\bin\Debug\Problem12_ExtractBitFromInteger.exe.config
+C:\Users\alex\documents\visual studio 2012\Projects\Operators-And-Expressions-Homework\Problem12_ExtractBitFromInteger\bin\Debug\Problem12_ExtractBitFromInteger.exe
+C:\Users\alex\documents\visual studio 2012\Projects\Operators-And-Expressions-Homework\Problem12_ExtractBitFromInteger\bin\Debug\Problem12_ExtractBitFromInteger.pdb
+C:\Users\alex\documents\visual studio 2012\Projects\Operators-And-Expressions-Homework\Problem12_ExtractBitFromInteger\obj\Debug\Problem12_ExtractBitFromInteger.exe
+C:\Users\alex\documents\visual studio 2012\Projects\Operators-And-Expressions-Homework\Problem12_ExtractBitFromInteger\obj\Debug\Problem12_ExtractBitFromInteger.pdb
+C:\Users\alex\documents\visual studio 2012\Projects\Operators-And-Expressions-Homework\Problem12_ExtractBitFromInteger\obj\Debug\Problem12_ExtractBitFromInteger.csprojResolveAssemblyReference.cache

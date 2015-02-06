@@ -1,0 +1,5 @@
+C:\Users\alex\documents\visual studio 2012\Projects\Operators-And-Expressions-Homework\Problem14_ModifyBitAtGivenPosition\bin\Debug\Problem14_ModifyBitAtGivenPosition.exe.config
+C:\Users\alex\documents\visual studio 2012\Projects\Operators-And-Expressions-Homework\Problem14_ModifyBitAtGivenPosition\bin\Debug\Problem14_ModifyBitAtGivenPosition.exe
+C:\Users\alex\documents\visual studio 2012\Projects\Operators-And-Expressions-Homework\Problem14_ModifyBitAtGivenPosition\bin\Debug\Problem14_ModifyBitAtGivenPosition.pdb
+C:\Users\alex\documents\visual studio 2012\Projects\Operators-And-Expressions-Homework\Problem14_ModifyBitAtGivenPosition\obj\Debug\Problem14_ModifyBitAtGivenPosition.exe
+C:\Users\alex\documents\visual studio 2012\Projects\Operators-And-Expressions-Homework\Problem14_ModifyBitAtGivenPosition\obj\Debug\Problem14_ModifyBitAtGivenPosition.pdb

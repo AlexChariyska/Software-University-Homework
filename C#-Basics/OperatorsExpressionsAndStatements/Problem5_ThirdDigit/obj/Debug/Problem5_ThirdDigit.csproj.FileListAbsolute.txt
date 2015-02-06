@@ -1,0 +1,5 @@
+c:\users\alex\documents\visual studio 2012\Projects\Operators-And-Expressions-Homework\Problem5_ThirdDigit\bin\Debug\Problem5_ThirdDigit.exe.config
+c:\users\alex\documents\visual studio 2012\Projects\Operators-And-Expressions-Homework\Problem5_ThirdDigit\bin\Debug\Problem5_ThirdDigit.exe
+c:\users\alex\documents\visual studio 2012\Projects\Operators-And-Expressions-Homework\Problem5_ThirdDigit\bin\Debug\Problem5_ThirdDigit.pdb
+c:\users\alex\documents\visual studio 2012\Projects\Operators-And-Expressions-Homework\Problem5_ThirdDigit\obj\Debug\Problem5_ThirdDigit.exe
+c:\users\alex\documents\visual studio 2012\Projects\Operators-And-Expressions-Homework\Problem5_ThirdDigit\obj\Debug\Problem5_ThirdDigit.pdb

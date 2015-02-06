@@ -1,0 +1,5 @@
+c:\users\alex\documents\visual studio 2012\Projects\Operators-And-Expressions-Homework\Problem2_MoonGravitation\bin\Debug\Problem2_MoonGravitation.exe.config
+c:\users\alex\documents\visual studio 2012\Projects\Operators-And-Expressions-Homework\Problem2_MoonGravitation\bin\Debug\Problem2_MoonGravitation.exe
+c:\users\alex\documents\visual studio 2012\Projects\Operators-And-Expressions-Homework\Problem2_MoonGravitation\bin\Debug\Problem2_MoonGravitation.pdb
+c:\users\alex\documents\visual studio 2012\Projects\Operators-And-Expressions-Homework\Problem2_MoonGravitation\obj\Debug\Problem2_MoonGravitation.exe
+c:\users\alex\documents\visual studio 2012\Projects\Operators-And-Expressions-Homework\Problem2_MoonGravitation\obj\Debug\Problem2_MoonGravitation.pdb

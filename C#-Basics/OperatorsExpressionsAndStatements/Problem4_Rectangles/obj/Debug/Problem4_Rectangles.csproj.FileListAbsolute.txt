@@ -1,0 +1,5 @@
+c:\users\alex\documents\visual studio 2012\Projects\Operators-And-Expressions-Homework\Problem4_Rectangles\bin\Debug\Problem4_Rectangles.exe.config
+c:\users\alex\documents\visual studio 2012\Projects\Operators-And-Expressions-Homework\Problem4_Rectangles\bin\Debug\Problem4_Rectangles.exe
+c:\users\alex\documents\visual studio 2012\Projects\Operators-And-Expressions-Homework\Problem4_Rectangles\bin\Debug\Problem4_Rectangles.pdb
+c:\users\alex\documents\visual studio 2012\Projects\Operators-And-Expressions-Homework\Problem4_Rectangles\obj\Debug\Problem4_Rectangles.exe
+c:\users\alex\documents\visual studio 2012\Projects\Operators-And-Expressions-Homework\Problem4_Rectangles\obj\Debug\Problem4_Rectangles.pdb

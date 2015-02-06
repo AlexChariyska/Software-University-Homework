@@ -1,0 +1,5 @@
+C:\Users\alex\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables-Homework\Problem10_ExchangingValues\bin\Debug\Problem10_ExchangingValues.exe.config
+C:\Users\alex\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables-Homework\Problem10_ExchangingValues\bin\Debug\Problem10_ExchangingValues.exe
+C:\Users\alex\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables-Homework\Problem10_ExchangingValues\bin\Debug\Problem10_ExchangingValues.pdb
+C:\Users\alex\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables-Homework\Problem10_ExchangingValues\obj\Debug\Problem10_ExchangingValues.exe
+C:\Users\alex\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables-Homework\Problem10_ExchangingValues\obj\Debug\Problem10_ExchangingValues.pdb

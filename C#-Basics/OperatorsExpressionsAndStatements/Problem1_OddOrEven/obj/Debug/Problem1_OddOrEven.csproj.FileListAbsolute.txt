@@ -1,0 +1,5 @@
+c:\users\alex\documents\visual studio 2012\Projects\Operators-And-Expressions-Homework\Problem1_OddOrEven\bin\Debug\Problem1_OddOrEven.exe.config
+c:\users\alex\documents\visual studio 2012\Projects\Operators-And-Expressions-Homework\Problem1_OddOrEven\bin\Debug\Problem1_OddOrEven.exe
+c:\users\alex\documents\visual studio 2012\Projects\Operators-And-Expressions-Homework\Problem1_OddOrEven\bin\Debug\Problem1_OddOrEven.pdb
+c:\users\alex\documents\visual studio 2012\Projects\Operators-And-Expressions-Homework\Problem1_OddOrEven\obj\Debug\Problem1_OddOrEven.exe
+c:\users\alex\documents\visual studio 2012\Projects\Operators-And-Expressions-Homework\Problem1_OddOrEven\obj\Debug\Problem1_OddOrEven.pdb

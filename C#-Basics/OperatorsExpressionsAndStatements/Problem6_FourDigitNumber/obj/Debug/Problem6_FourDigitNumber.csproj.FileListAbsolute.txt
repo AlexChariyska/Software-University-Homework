@@ -1,0 +1,6 @@
+c:\users\alex\documents\visual studio 2012\Projects\Operators-And-Expressions-Homework\Problem6_FourDigitNumber\bin\Debug\Problem6_FourDigitNumber.exe.config
+c:\users\alex\documents\visual studio 2012\Projects\Operators-And-Expressions-Homework\Problem6_FourDigitNumber\obj\Debug\Problem6_FourDigitNumber.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2012\Projects\Operators-And-Expressions-Homework\Problem6_FourDigitNumber\bin\Debug\Problem6_FourDigitNumber.exe
+c:\users\alex\documents\visual studio 2012\Projects\Operators-And-Expressions-Homework\Problem6_FourDigitNumber\bin\Debug\Problem6_FourDigitNumber.pdb
+c:\users\alex\documents\visual studio 2012\Projects\Operators-And-Expressions-Homework\Problem6_FourDigitNumber\obj\Debug\Problem6_FourDigitNumber.exe
+c:\users\alex\documents\visual studio 2012\Projects\Operators-And-Expressions-Homework\Problem6_FourDigitNumber\obj\Debug\Problem6_FourDigitNumber.pdb

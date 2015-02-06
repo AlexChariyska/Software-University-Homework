@@ -1,0 +1,5 @@
+c:\users\alex\documents\visual studio 2012\Projects\Operators-And-Expressions-Homework\Problem8_PrimeNumberCheck\bin\Debug\Problem8_PrimeNumberCheck.exe.config
+c:\users\alex\documents\visual studio 2012\Projects\Operators-And-Expressions-Homework\Problem8_PrimeNumberCheck\bin\Debug\Problem8_PrimeNumberCheck.exe
+c:\users\alex\documents\visual studio 2012\Projects\Operators-And-Expressions-Homework\Problem8_PrimeNumberCheck\bin\Debug\Problem8_PrimeNumberCheck.pdb
+c:\users\alex\documents\visual studio 2012\Projects\Operators-And-Expressions-Homework\Problem8_PrimeNumberCheck\obj\Debug\Problem8_PrimeNumberCheck.exe
+c:\users\alex\documents\visual studio 2012\Projects\Operators-And-Expressions-Homework\Problem8_PrimeNumberCheck\obj\Debug\Problem8_PrimeNumberCheck.pdb
