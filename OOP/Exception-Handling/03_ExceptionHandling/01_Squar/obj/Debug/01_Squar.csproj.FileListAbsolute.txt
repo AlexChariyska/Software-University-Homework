@@ -1,0 +1,6 @@
+c:\users\alex\documents\visual studio 2013\Projects\03_ExceptionHandling\01_Squar\bin\Debug\01_Squar.exe.config
+c:\users\alex\documents\visual studio 2013\Projects\03_ExceptionHandling\01_Squar\bin\Debug\01_Squar.exe
+c:\users\alex\documents\visual studio 2013\Projects\03_ExceptionHandling\01_Squar\bin\Debug\01_Squar.pdb
+c:\users\alex\documents\visual studio 2013\Projects\03_ExceptionHandling\01_Squar\obj\Debug\01_Squar.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2013\Projects\03_ExceptionHandling\01_Squar\obj\Debug\01_Squar.exe
+c:\users\alex\documents\visual studio 2013\Projects\03_ExceptionHandling\01_Squar\obj\Debug\01_Squar.pdb

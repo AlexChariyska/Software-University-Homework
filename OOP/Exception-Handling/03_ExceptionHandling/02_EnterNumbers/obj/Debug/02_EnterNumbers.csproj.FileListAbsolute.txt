@@ -1,0 +1,5 @@
+c:\users\alex\documents\visual studio 2013\Projects\03_ExceptionHandling\02_EnterNumbers\bin\Debug\02_EnterNumbers.exe.config
+c:\users\alex\documents\visual studio 2013\Projects\03_ExceptionHandling\02_EnterNumbers\bin\Debug\02_EnterNumbers.exe
+c:\users\alex\documents\visual studio 2013\Projects\03_ExceptionHandling\02_EnterNumbers\bin\Debug\02_EnterNumbers.pdb
+c:\users\alex\documents\visual studio 2013\Projects\03_ExceptionHandling\02_EnterNumbers\obj\Debug\02_EnterNumbers.exe
+c:\users\alex\documents\visual studio 2013\Projects\03_ExceptionHandling\02_EnterNumbers\obj\Debug\02_EnterNumbers.pdb
