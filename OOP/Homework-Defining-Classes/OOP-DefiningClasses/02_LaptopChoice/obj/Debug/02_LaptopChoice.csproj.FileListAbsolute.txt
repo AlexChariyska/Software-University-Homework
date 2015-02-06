@@ -1,0 +1,5 @@
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\OOP-DefiningClasses\02_LaptopChoice\bin\Debug\02_LaptopChoice.exe.config
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\OOP-DefiningClasses\02_LaptopChoice\bin\Debug\02_LaptopChoice.exe
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\OOP-DefiningClasses\02_LaptopChoice\bin\Debug\02_LaptopChoice.pdb
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\OOP-DefiningClasses\02_LaptopChoice\obj\Debug\02_LaptopChoice.exe
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\OOP-DefiningClasses\02_LaptopChoice\obj\Debug\02_LaptopChoice.pdb

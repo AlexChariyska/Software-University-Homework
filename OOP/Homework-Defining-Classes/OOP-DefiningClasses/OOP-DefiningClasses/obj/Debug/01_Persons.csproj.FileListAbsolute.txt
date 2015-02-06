@@ -1,0 +1,3 @@
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\OOP-DefiningClasses\OOP-DefiningClasses\bin\Debug\OOP-DefiningClasses.exe.config
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\OOP-DefiningClasses\OOP-DefiningClasses\obj\Debug\OOP-DefiningClasses.exe
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\OOP-DefiningClasses\OOP-DefiningClasses\obj\Debug\OOP-DefiningClasses.pdb
