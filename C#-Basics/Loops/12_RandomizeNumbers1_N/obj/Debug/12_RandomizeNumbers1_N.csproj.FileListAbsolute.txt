@@ -1,0 +1,6 @@
+C:\Users\alex\Documents\Visual Studio 2012\Projects\Loops-Homework\12_RandomizeNumbers1_N\bin\Debug\12_RandomizeNumbers1_N.exe.config
+C:\Users\alex\Documents\Visual Studio 2012\Projects\Loops-Homework\12_RandomizeNumbers1_N\bin\Debug\12_RandomizeNumbers1_N.exe
+C:\Users\alex\Documents\Visual Studio 2012\Projects\Loops-Homework\12_RandomizeNumbers1_N\bin\Debug\12_RandomizeNumbers1_N.pdb
+C:\Users\alex\Documents\Visual Studio 2012\Projects\Loops-Homework\12_RandomizeNumbers1_N\obj\Debug\12_RandomizeNumbers1_N.exe
+C:\Users\alex\Documents\Visual Studio 2012\Projects\Loops-Homework\12_RandomizeNumbers1_N\obj\Debug\12_RandomizeNumbers1_N.pdb
+C:\Users\alex\Documents\Visual Studio 2012\Projects\Loops-Homework\12_RandomizeNumbers1_N\obj\Debug\12_RandomizeNumbers1_N.csprojResolveAssemblyReference.cache

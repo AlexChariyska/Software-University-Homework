@@ -1,0 +1,1 @@
+C:\Users\alex\Documents\Visual Studio 2012\Projects\Loops-Homework\17_CalculatingGCD\bin\Debug\17_CalculatingGCD.exe.config

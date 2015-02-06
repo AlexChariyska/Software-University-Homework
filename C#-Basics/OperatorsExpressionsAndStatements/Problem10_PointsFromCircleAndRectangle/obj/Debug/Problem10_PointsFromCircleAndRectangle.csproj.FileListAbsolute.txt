@@ -1,0 +1,6 @@
+C:\Users\alex\documents\visual studio 2012\Projects\Operators-And-Expressions-Homework\Problem10_PointsFromCircleAndRectangle\bin\Debug\Problem10_PointsFromCircleAndRectangle.exe.config
+C:\Users\alex\documents\visual studio 2012\Projects\Operators-And-Expressions-Homework\Problem10_PointsFromCircleAndRectangle\obj\Debug\Problem10_PointsFromCircleAndRectangle.csprojResolveAssemblyReference.cache
+C:\Users\alex\documents\visual studio 2012\Projects\Operators-And-Expressions-Homework\Problem10_PointsFromCircleAndRectangle\bin\Debug\Problem10_PointsFromCircleAndRectangle.exe
+C:\Users\alex\documents\visual studio 2012\Projects\Operators-And-Expressions-Homework\Problem10_PointsFromCircleAndRectangle\bin\Debug\Problem10_PointsFromCircleAndRectangle.pdb
+C:\Users\alex\documents\visual studio 2012\Projects\Operators-And-Expressions-Homework\Problem10_PointsFromCircleAndRectangle\obj\Debug\Problem10_PointsFromCircleAndRectangle.exe
+C:\Users\alex\documents\visual studio 2012\Projects\Operators-And-Expressions-Homework\Problem10_PointsFromCircleAndRectangle\obj\Debug\Problem10_PointsFromCircleAndRectangle.pdb

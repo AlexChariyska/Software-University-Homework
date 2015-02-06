@@ -1,0 +1,6 @@
+C:\Users\alex\Documents\Visual Studio 2012\Projects\Loops-Homework\14_DecimalToBinaryNumber\bin\Debug\14_DecimalToBinaryNumber.exe.config
+C:\Users\alex\Documents\Visual Studio 2012\Projects\Loops-Homework\14_DecimalToBinaryNumber\bin\Debug\14_DecimalToBinaryNumber.exe
+C:\Users\alex\Documents\Visual Studio 2012\Projects\Loops-Homework\14_DecimalToBinaryNumber\bin\Debug\14_DecimalToBinaryNumber.pdb
+C:\Users\alex\Documents\Visual Studio 2012\Projects\Loops-Homework\14_DecimalToBinaryNumber\obj\Debug\14_DecimalToBinaryNumber.csprojResolveAssemblyReference.cache
+C:\Users\alex\Documents\Visual Studio 2012\Projects\Loops-Homework\14_DecimalToBinaryNumber\obj\Debug\14_DecimalToBinaryNumber.exe
+C:\Users\alex\Documents\Visual Studio 2012\Projects\Loops-Homework\14_DecimalToBinaryNumber\obj\Debug\14_DecimalToBinaryNumber.pdb

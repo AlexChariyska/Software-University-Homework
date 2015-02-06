@@ -1,0 +1,6 @@
+C:\Users\alex\Documents\Visual Studio 2012\Projects\Loops-Homework\15_HexadecimalToBinary\bin\Debug\15_HexadecimalToBinary.exe.config
+C:\Users\alex\Documents\Visual Studio 2012\Projects\Loops-Homework\15_HexadecimalToBinary\bin\Debug\15_HexadecimalToBinary.exe
+C:\Users\alex\Documents\Visual Studio 2012\Projects\Loops-Homework\15_HexadecimalToBinary\bin\Debug\15_HexadecimalToBinary.pdb
+C:\Users\alex\Documents\Visual Studio 2012\Projects\Loops-Homework\15_HexadecimalToBinary\obj\Debug\15_HexadecimalToBinary.csprojResolveAssemblyReference.cache
+C:\Users\alex\Documents\Visual Studio 2012\Projects\Loops-Homework\15_HexadecimalToBinary\obj\Debug\15_HexadecimalToBinary.exe
+C:\Users\alex\Documents\Visual Studio 2012\Projects\Loops-Homework\15_HexadecimalToBinary\obj\Debug\15_HexadecimalToBinary.pdb

@@ -1,0 +1,1 @@
+C:\Users\alex\documents\visual studio 2012\Projects\Operators-And-Expressions-Homework\Problem 13_CheckBitAtGivenPosition\bin\Debug\Problem 13_CheckBitAtGivenPosition.exe.config
