@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Simple Table</title>
+    <style>
+    a {
+        text-decoration:none;
+    }
+    td, th {
+        height: 50px;
+        width: 80px;
+        border-style: solid;
+        border-width: 1px;
+		padding:5px;
+    }
+    table {
+        border-style: solid;
+        border-width: 1px;
+    }
+    .google {
+        vertical-align:top;
+    }
+    .git {
+        vertical-align:top;
+        text-align: right;
+    }
+    .facebook {
+        vertical-align:top;
+        text-align:center;
+    }
+    .game, .mail, .wc {
+        vertical-align: middle;
+        text-align:left;
+    }
+    .center {
+        vertical-align: middle;
+        text-align:center;
+    }
+    .youtube {
+        vertical-align: bottom;
+        text-align:center;
+    }
+    .food {
+        vertical-align: bottom;
+        text-align:right;
+    }
+    .game-second {
+        vertical-align: bottom;
+        text-align:left;
+    }
+    .beer {
+        vertical-align: middle;
+        text-align:right;
+        font-size: 20px;
+    }
+    thead {
+        font-size: 30px;
+    }
+    </style>
+</head>
+
+<body>
+    <table>
+        <thead>
+            <tr>
+                <th colspan="4">
+                    SoftUni LIFE
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td class="google" colspan="2"><a href="https://www.google.bg">Google</a>
+                </td>
+                <td class="git" colspan="2"><a href="https://github.com">GitHub</a>
+                </td>
+            </tr>
+            <tr>
+                <td class="facebook"><a href="https://www.facebook.com/groups/SoftwareUniversity/?fref=ts">FB</a>
+                </td>
+                <td class="mail"><a href="https://mail.google.com">GMail</a></td>
+                <td class="youtube"> <a href="https://www.youtube.com ">YouTube</a>
+                </td>
+                <td class="game"> <a href="http://gabrielecirulli.github.io/2048/ "> 2048 </a>
+                </td>
+            </tr>
+            <tr>
+                <td class="food">Food</td>
+
+                <td class="game-second" colspan="2">Game</td>
+
+                <td>
+                    <table>
+                        <tr>
+                            <th class="center">Social Life</th>
+                        </tr>
+                        <tr>
+                            <th class="center">Sleep</th>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <tr>
+                <th class="beer" colspan="3">Beer &gt;</th>
+                <td class="wc">WC</td>
+            </tr>
+
+        </tbody>
+
+    </table>
+</body>

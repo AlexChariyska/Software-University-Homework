@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Website Header</title>
+    <style>
+    * {
+        margin:0px;
+        padding: 0px;
+    }
+    .header{
+    	width: 100%;
+        padding: 10px;
+        font-size: 20px;
+        background-color:#234465;
+        height: 150px;
+        border:none;
+    }
+    .img-logo {
+        float:left;
+        border:none;
+        position: absolute;
+        top:42px;
+        left: 50px;
+    }
+    .softuni {
+        background-image: url("images/logo.png") center center no-repeat;
+   
+
+    }
+    .search-section {
+        float: right;
+        position: absolute;
+        right: 100px;
+        top:30px;
+        border:none;
+        color: white;
+    }
+    .selectors {
+        background-color: #234465;
+        width:100px;
+        color:white;
+        border:none;
+        font-size: 20px;
+    }
+    .text-area-sr {
+        margin-left:20px;
+        border;
+        1px solid white;
+        border-radius: 5px;
+        width: 220px;
+        height: 30px;
+    }
+    #search {
+        position: absolute;
+        top: 5px;
+        right: 4px;
+        border-left:1px solid gray;
+        padding: 5px;
+    }
+    .menu {
+        position: absolute;
+        top:80px;
+        right: 100px;
+    }
+    .menu li {
+        float:left;
+        color:white;
+    }
+    li {
+        float:left;
+        text-align: center;
+        display: block;
+        padding: 10px;
+        position:relative;
+    }
+    ul ul {
+        display:none;
+    }
+    nav ul ul {
+    	position: absolute;
+    	top:100%;
+    	background-color:  #234465;
+    }
+    ul li:hover>ul {
+        display: block;
+    }
+    ul li:hover {
+        background-color: #4CA0DB;
+        border:1px splid #4CA0DB;
+        border-radius: 5px;
+        display: inline-table;
+        position: relative;
+
+    }
+    </style>
+
+</head>
+
+<body>
+    <fieldset class="header">
+        <fieldset class="img-logo">
+            <a href="https://softuni.bg/" class="softuni">
+                <img src="images/logo.png" alt="SoftwareUniversity" width="265px" height="65px">
+            </a>
+        </fieldset>
+
+
+        <fieldset class="search-section">
+            0
+            <img src="images/bell.png" alt="notifications">
+            <select class="selectors">
+                <option>User</option>
+                <option>Profile</option>
+                <option>Exit</option>
+                <input placeholder="Search..." class="text-area-sr">
+                <img id="search" src="images/magnifying_glass.png" alt="Search">
+
+            </select>
+        </fieldset>
+
+        <nav class="menu">
+            <ul>
+                <li>News</li>
+                <li>About the university 
+                    <ul>
+                        <li>About us</li>
+                        <li>Professions</li>
+                    </ul>
+                </li>
+                <li>Training courses 
+                    <ul>
+                        <li>Java Basics</li>
+                        <li>C# Basics</li>
+                        <li>Web fundamentals</li>
+
+                    </ul>
+                </li>
+                <li>For companies</li>
+                <li>Forum</li>
+                <li>Contact</li>
+            </ul>
+        </nav>
+    </fieldset>
+
+</body>

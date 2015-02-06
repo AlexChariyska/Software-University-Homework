@@ -1,0 +1,121 @@
+/**
+ * Eric Meyer's Reset CSS v2.0 (http://meyerweb.com/eric/tools/css/reset/)
+ * http://cssreset.com
+ */
+ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, address, img,sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, section, summary, time, mark, audio, video, main {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    box-sizing: border-box;
+}
+fieldset {
+    border:none;
+}
+body {
+    font-size:16px;
+    line-height: 1.66;
+}
+/* =================================
+Main css
+================================= */
+ section {
+    background: url("img/formBackground.jpg") center center repeat;
+    width:380px;
+    background-size:380px 800px;
+    margin: 0px 10px;
+    color: #322835;
+}
+fieldset {
+    width:320px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background: rgba(114, 135, 177, 0.4);
+    border-radius: 4px;
+    margin:2px auto 0 auto;
+}
+input {
+    border-radius: 5px;
+    background: #fff;
+    border:none;
+    width:190px;
+    height:20px;
+}
+input[type="radio"] {
+    width:auto;
+    padding-top: 5px;
+}
+.label{
+    margin-bottom: 5px;
+}
+.heading {
+    margin:10px 0px;
+    padding-left: 30px;
+}
+.btn {
+    width: 100px;
+    height: 30px;
+    border-radius: 25px;
+    color:#fff;
+    background: #04152f;
+    margin:10px 3px 10px 140px;
+    border:none;
+}
+h2 {
+    margin-right: 5px;
+    width:100px;
+    display:inline-block;
+}
+textarea{
+     width:185px;
+     border-radius: 4px;
+     height: 70px;
+}
+.card{
+    display: block;
+}
+.address{
+    line-height: 20px;
+    vertical-align: top;
+}
+
+/* Placeholder settings
+============================*/
+input::-webkit-input-placeholder { /* WebKit browsers */
+  line-height: 1.5em;
+  padding-left: 10px;
+}
+input:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+  line-height: 1.5em;
+  padding-left: 10px;
+}
+input::-moz-placeholder { /* Mozilla Firefox 19+ */
+  line-height: 1.5em;
+  padding-left: 10px;
+}
+input:-ms-input-placeholder { /* Internet Explorer 10+ */
+  line-height: 1.5em;
+  padding-left: 10px;
+}
+/* Card img settings
+============================*/
+.visa{
+    background: url("img/visa.png") 0 center no-repeat;
+    background-size:25px 25px;
+    padding-left: 25px;
+    vertical-align: super;
+}
+.amex{
+    background: url("img/amex.png") 0 center no-repeat;
+    background-size:25px 25px;
+    padding-left: 25px;
+    vertical-align: super;
+}
+.mastercard{
+    background: url("img/mastercard.png") 0 center no-repeat;
+     background-size:25px 25px;
+    padding-left: 25px;
+    vertical-align: super;
+}

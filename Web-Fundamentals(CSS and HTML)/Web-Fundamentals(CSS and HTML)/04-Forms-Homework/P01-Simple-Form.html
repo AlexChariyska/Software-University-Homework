@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Simple Form</title>
+    <style>
+    /**
+ * Eric Meyer's Reset CSS v2.0 (http://meyerweb.com/eric/tools/css/reset/)
+ * http://cssreset.com
+ */
+    html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+        margin: 0;
+        padding: 0;
+        border: 0;
+        font-size: 100%;
+        font: inherit;
+        vertical-align: baseline;
+    }
+    /* HTML5 display-role reset for older browsers */
+    article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+        display: block;
+    }
+    body {
+        line-height: 1;
+    }
+    ol, ul {
+        list-style: none;
+    }
+    blockquote, q {
+        quotes: none;
+    }
+    blockquote:before, blockquote:after, q:before, q:after {
+        content:'';
+        content: none;
+    }
+    table {
+        border-collapse: collapse;
+        border-spacing: 0;
+    }
+    /***************************/
+    
+    body {
+        font-size:16px;
+        background-color: #EEEEEE;
+        color: #234465;
+        padding: 20px;
+        margin-bottom: 10px;
+        box-sizing:border-box;
+    }
+    header h1 {
+        font-size:20px;
+        font-weight: 900;
+        margin-bottom:10px;
+    }
+    header {
+        margin-bottom:10px;
+    }
+    .register, .login {
+        width: 25%;
+        height: 300px;
+        float: left;
+        border: none;
+        padding: 20px;
+    }
+    .login {
+        background-color: #234465;
+        color: white;
+    }
+    .btn-reg, .btn-log {
+        float:right;
+        text-align: center;
+        margin-top:10px;
+    }
+    .btn-log {
+        border-color: orange;
+        background-color: #234465;
+        color: white;
+        width: 100px;
+    }
+    .btn-reg {
+        border-color: #234465;
+        background-color: #EEEEEE;
+        width: 120px;
+    }
+    .link-pass {
+        color: white;
+        font-size: 13px;
+        float: right;
+        margin-top:20px;
+    }
+    .header-login {
+        text-transform:uppercase;
+        font-size:14px;
+    }
+    .form {
+        width: 100%;
+        padding:5px;
+        margin-top:10px;
+    }
+    #check {
+        margin-top:12px;
+    }
+    </style>
+</head>
+
+<body>
+
+
+    <header>
+        <h1>Enter the system</h1>
+        <p>It is necessary to login in your account in order to sign in for a course</p>
+    </header>
+    <form method="post" action="#">
+
+        <fieldset class="register">
+            <h2 class="header">Are you new? Register</h2>
+            <input class="form" type="text" placeholder="User name">
+            <input class="form" type="email " placeholder="Email">
+            <input type="password" class="form" placeholder="Password">
+            <input type="password" class="form" placeholder="Confirm password">
+            <input type="submit" value="Register " class="btn-reg">
+        </fieldset>
+
+        <fieldset class="login ">
+            <h2 class="header-login ">Already a student? Login</h2>
+            <input type="text" class="form" placeholder="User name ">
+            <input type="password " class="form" placeholder="Password ">
+            <input type="checkbox" id="check">
+            <label for="check"><sup>Remember me ?</sup>
+            </label>
+            <input type="submit " value="Login " class="btn-log">
+            
+            <a href="https://softuni.bg/account/forgottenpassword" class="link-pass">Forgot Password?</a>
+
+        </fieldset>
+    </form>
+
+</body>
+
+</html>

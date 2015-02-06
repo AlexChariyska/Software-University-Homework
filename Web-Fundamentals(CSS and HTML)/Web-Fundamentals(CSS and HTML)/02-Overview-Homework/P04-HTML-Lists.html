@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Lists</title>
+	<style>
+	ul{
+	list-style-type:circle;
+	}
+	ul ul{
+	list-style-type:square;
+	}
+	ul ul{
+	list-style-type:square;
+	}
+	.nested{
+	list-style-type:disc;
+	}	
+	</style>
+</head>
+
+<body>
+        <ol type="I">
+            <li>List Item 1
+                <ol type="a">
+                    <li>Nested Item 1.1</li>
+                    <li>Nested Item 1.2</li>
+                </ol>
+            </li>
+            <li>List Item 2
+                <ol type="1">
+                    <li>Nested item 2.1</li>
+                    <li>Nested item 2.2
+                        <ul>
+                            <li>Nested item 2.2.1</li>
+                            <li>Nested item 2.2.2
+                                <ul >
+                                    <li>Nested Item 2.2.2.1</li>
+                                    <li>Nested Item 2.2.2.2</li>
+                                </ul>
+                            </li>
+                            <li>Nested item 2.2.3</li>
+                        </ul>
+                    </li>
+                    <li>Nested item 2.3</li>
+                </ol>
+            </li>
+            <li>List Item 3
+                <ul class="nested">
+                    <li>Nested item 3.1</li>
+                    <li>Nested item 3.2</li>
+                    <li>Nested item 3.3</li>
+                </ul>
+            </li>
+        </ol>
+</body>
+
+</html>

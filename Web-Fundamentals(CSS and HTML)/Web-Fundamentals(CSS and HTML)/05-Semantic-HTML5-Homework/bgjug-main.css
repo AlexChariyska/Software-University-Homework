@@ -1,0 +1,198 @@
+/**
+ * Eric Meyer's Reset CSS v2.0 (http://meyerweb.com/eric/tools/css/reset/)
+ * http://cssreset.com
+ */
+ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    box-sizing:border-box;
+}
+/* HTML5 display-role reset for older browsers */
+ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+body {
+    line-height: 1;
+}
+ol, ul {
+    list-style: none;
+}
+blockquote, q {
+    quotes: none;
+}
+blockquote:before, blockquote:after, q:before, q:after {
+    content:'';
+    content: none;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+/***************************/
+ header {
+    width:100%;
+    height:25%;
+    padding: 20px;
+}
+header h1 {
+    padding-left:20px;
+    margin-bottom:20px;
+    font-size: 20px;
+    font-weight: 900;
+}
+.menu li {
+    float:left;
+    text-transform: uppercase;
+    padding-right: 20px;
+     list-style-type: none;
+}
+.search-container {
+    float:right;
+    overflow:auto;
+}
+.search {
+    height: 27px;
+    width:25px;
+    background-color: white;
+    border: 1px solid gray;
+    border-left: none;
+    float:left;
+}
+.field-search {
+    height: 25px;
+    font-size: 14px;
+    margin:0;
+    padding: 0;
+    border:1px solid gray;
+    border-right: none;
+    float:left;
+}
+
+a {
+    text-decoration: none;
+    color:black;
+}
+p {
+    margin:10px auto;
+}
+/*********************/
+ .left {
+    width: 20%;
+    float:left;
+    padding:15px;
+}
+.left ul li {
+    margin:10px;
+}
+.left a {
+    color:#82AACC;
+    text-align: left;
+}
+/*********************/
+ .content {
+    width:55%;
+    float:left;
+    margin:auto 10px;
+    padding-top:15px;
+}
+.content h1 {
+    font-size: 26px;
+    margin-bottom: 5px;
+}
+article {
+    margin-bottom: 20px;
+}
+.content footer {
+    font-size: 14px;
+    color: gray;
+    margin-top:5px;
+}
+.content article footer a {
+    text-transform: uppercase;
+    color:gray;
+    border-bottom: 1px solid gray;
+}
+.btn-previous {
+    background: transparent;
+    border: none;
+    margin-top:20px;
+}
+.blue {
+    color:#82AACC;
+    font-weight: 900;
+}
+/*******************/
+ .right {
+    padding-top:15px;
+    width: 20%;
+    float:left;
+    color:gray;
+    display: block;
+}
+.right-selectors {
+    margin-bottom:10px;
+}
+/*******************/
+ .page-footer {
+    width:100%;
+    height:20%;
+    position:absolute;
+    bottom: 0;
+    background-color: black;
+    padding-top: 20px;
+}
+.name, .places, .latest, .more {
+    width:200px;
+    float:left;
+    text-align: left;
+    margin-right: 15px;
+    color:white;
+    padding: 10px 10px 5px auto;
+}
+.name {
+    font-size: 20px;
+    padding-left:25px;
+}
+.places li a {
+    color: white;
+}
+.places li {
+    margin-top:5px;
+}
+.page-footer p, summary {
+    color:gray;
+}
+summary {
+    font-size:14px;
+}
+.latest a {
+    color:white;
+    font-size: 14px;
+}
+.copyright {
+    color: gray;
+    font-size: 12px;
+    width: 150px;
+    float:left;
+}
+.page-footer h1 {
+    margin-bottom: 10px;
+}
+.page-footer::before {
+    margin-bottom: 10px;
+    width: 100%;
+    display:block;
+    height: 30px;
+    background-color: #F7F7F7;
+    content:"Set you Twitter account name in your settings to use the TwitterBar Section.";
+    font-style: italic;
+    line-height: 30px;
+    padding-left: 20px;
+    position: absolute;
+    top: -27px;
+    left: 0px;
+}

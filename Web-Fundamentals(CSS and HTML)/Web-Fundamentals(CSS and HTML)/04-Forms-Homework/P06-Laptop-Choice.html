@@ -1,0 +1,205 @@
+<!DOCTYPE>
+<html>
+
+<head>
+    <title>Laptop choice</title>
+    <style>
+    body {
+        width: 100%;
+    }
+    .wrapper {
+        width: 50%;
+        font-size: 10px;
+        padding:12px;
+    }
+    h1 {
+        padding-left:10px;
+        padding-bottom:20px;
+        font-size:20px;
+    }
+    .price {
+        background-color: #2C425A;
+        text-align: center;
+        float: right;
+        border-radius: 5px;
+        color:white;
+    }
+    button {
+        background-color: white;
+        border-radius: 6px;
+        height: 170px;
+        width: 100%;
+    }
+    a {
+        text-decoration: none;
+        color:black;
+    }
+    .text {
+        font-size: 12px;
+        text-align: left;
+    }
+    .laptop {
+        float:left;
+        width: 30%;
+        border:none;
+    }
+    button:hover {
+        border:1px solid red;
+    }
+    header {
+        font-size: 16px;
+    }
+    .range {
+        width: 20%;
+        height: 60px;
+        background-color: #F7FCFF;
+        border:none;
+    }
+    .aside {
+        width: 18%;
+        float:left;
+        height: 300px;
+        position:absolute;
+        top:0;
+        right:30%;
+    }
+    h3 {
+        text-align: center;
+        font-size: 12px;
+    }
+    .max {
+        float: right;
+        font-size: 10px;
+    }
+    .min {
+        font-size: 10px;
+    }
+    </style>
+</head>
+
+<body>
+    <section class="wrapper">
+        <h1>Apple's Laptops(6)</h1>
+        <fieldset class="laptop">
+            <button type="submit">
+                <a href="https://softuni.bg/">
+                    <h2 class="text">Apple MacBook Air</h2>
+                    <p class="text">11.6 inch/1.3GHz Haswell
+                    </p>
+                    <img src="images/laptop.png" alt="Laptop" width="100px">
+                    <input class="price" type="submit" value="$1,729.00">
+                </a>
+            </button>
+        </fieldset>
+
+        <fieldset class="laptop">
+            <button type="submit">
+                <a href="https://softuni.bg/">
+                    <h2 class="text">Apple MacBook Air</h2>
+                    <p class="text">11.6 inch/1.4GHz Haswell
+                    </p>
+                    <img src="images/laptop2.png" alt="Laptop" width="100px">
+                    <input class="price" type="submit" value="$1,825.00">
+                </a>
+            </button>
+        </fieldset>
+
+        <fieldset class="laptop">
+            <button type="submit">
+                <a href="https://softuni.bg/">
+                    <h2 class="text">Apple MacBook Air</h2>
+                    <p class="text">13.3 inch/1.3GHz Haswell
+                    </p>
+                    <img src="images/laptop.png" alt="Laptop" width="100px">
+                    <input class="price" type="submit" value="$1,919.00">
+                </a>
+            </button>
+        </fieldset>
+        <fieldset class="laptop">
+            <button type="submit">
+                <a href="https://softuni.bg/">
+                    <h2 class="text">Apple MacBook Air</h2>
+                    <p class="text">13.3 inch/1.4GHz Haswell
+                    </p>
+                    <img src="images/laptop.png" alt="Laptop" width="100px">
+                    <input class="price" type="submit" value="$1,999.00">
+                </a>
+            </button>
+        </fieldset>
+
+        <fieldset class="laptop">
+            <button type="submit">
+                <a href="https://softuni.bg/">
+                    <h2 class="text">Apple MacBook Air</h2>
+                    <p class="text">11.6 inch/1.4GHz Haswell 256GB SSD</p>
+                    <img src="images/laptop2.png" alt="Laptop" width="100px">
+                    <input class="price" type="submit" value="$2,119.00">
+                </a>
+            </button>
+        </fieldset>
+
+        <fieldset class="laptop">
+            <button type="submit">
+                <a href="https://softuni.bg/">
+                    <h2 class="text">Apple MacBook Pro</h2>
+                    <p class="text">13.3 inch/2.5GHz Ivy Bridge</p>
+                    <img src="images/laptop3.png" alt="Laptop" width="100px">
+                    <input class="price" type="submit" value="$2,529.00">
+                </a>
+            </button>
+        </fieldset>
+    </section>
+
+    <aside class="aside">
+        <fieldset class="range">
+            <h3>Price</h3>
+            <span class="min">1700</span>
+            <span class="max">2600</span>
+            <br/>
+            <input type="range" min="1700" max="2600" value="2150">
+        </fieldset>
+
+        <fieldset class="range">
+            <h3>Ram</h3>
+            <span class="min">2048</span>
+            <span class="max">4096</span>
+            <br/>
+            <input type="range" min="2048" max="4096" value="3030">
+        </fieldset>
+
+        <fieldset class="range">
+            <h3>Disc</h3>
+            <span class="min">100 GB</span>
+            <span class="max">2000 GB</span>
+            <br/>
+            <input type="range" min="100" max="2000" value="900">
+        </fieldset>
+
+        <fieldset class="range">
+            <h3>Display</h3>
+            <span class="min">11.6</span>
+            <span class="max">18.4</span>
+            <br/>
+            <input type="range" min="11.6" max="18.4" value="13">
+        </fieldset>
+
+        <fieldset class="range">
+            <h3>Weight</h3>
+            <span class="min">1</span>
+            <span class="max">6</span>
+            <br/>
+            <input type="range" min="1" max="6" value="4">
+        </fieldset>
+
+        <fieldset class="range">
+            <h3>Warranty</h3>
+            <span class="min">12 months</span>
+            <span class="max">60 months</span>
+            <br/>
+            <input type="range" min="12" max="60" value="36">
+        </fieldset>
+
+    </aside>
+</body>
+
+</html>

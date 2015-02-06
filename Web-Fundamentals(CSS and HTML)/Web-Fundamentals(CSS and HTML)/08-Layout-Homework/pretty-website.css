@@ -1,0 +1,204 @@
+/**
+ * Eric Meyer's Reset CSS v2.0 (http://meyerweb.com/eric/tools/css/reset/)
+ * http://cssreset.com
+ */
+ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video, main {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    box-sizing: border-box;
+}
+/* HTML5 display-role reset for older browsers */
+ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+body {
+    font-family:Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.2;
+    color: black;
+    background: #101415;
+    box-sizing: border-box;
+}
+ol, ul {
+    list-style: none;
+}
+a {
+    text-decoration: none;
+    color:#82BC0E;
+}
+time {
+    font-weight: bold;
+}
+/*==================================
+    Initial
+====================================*/
+ .clearfix {
+    zoom: 1;
+}
+.clearfix::after {
+    content:" ";
+    clear:both;
+    display: block;
+}
+.wrapper {
+    max-width: 900px;
+    margin:0 auto 5px auto;
+    position:static;
+}
+.header {
+    width:100%;
+    height:140px;
+    background: url("img/headerBackground.jpg") center center no-repeat;
+    color:white;
+    text-align: right;
+    padding: 40px;
+    font-weight: 900;
+    font-size: 25px;
+}
+.header h1 {
+    margin-top: 5%;
+}
+/* ===============================
+ Navigation
+=============================== */
+ .navigation__item {
+    float:left;
+    border-right: 1px solid #fff;
+    height: 40px;
+    width: 80px;
+    text-align: center;
+    line-height: 40px;
+    text-transform: uppercase;
+}
+.navigation {
+    background: url("img/btn.png") center center repeat-x;
+    background-size: 10px 40px;
+    border-bottom: 2px solid #fff;
+}
+.navigation__item:hover {
+    background: #B8B8B8;
+}
+.navigation__item a {
+    color: #B8B8B8;
+}
+.navigation__item:hover a {
+    color: #fff;
+}
+/* ===============================
+ Grid
+=============================== */
+ .grid {
+    float:left;
+    width: 100%;
+    background: #fff;
+    border-top:1px solid #DFDFDF;
+    padding-top: 20px;
+    padding-left: 40px;
+    font-weight: normal;
+}
+[class*='col-'] {
+    float: left;
+}
+.col-2-3 {
+    width: 70%;
+}
+.col-1-3 {
+    width:28%;
+}
+.col-1-1 {
+    width:100%;
+}
+/* ===============================
+ Section settings
+=============================== */
+ .section__header {
+    text-transform: uppercase;
+    color:#82BC0E;
+    font-weight: bold;
+    font-size: 2em;
+    padding: 20px 0;
+}
+.article__header {
+    font-weight: bold;
+    font-size:16px;
+}
+.body__main::first-line {
+    font-weight: bold;
+}
+.section-border {
+    border:1px solid #E1E1E1;
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 10px;
+    margin-right: 20px;
+}
+.article__header {
+    margin:20px 0 10px 0;
+}
+article img {
+    float:left;
+    margin-right:10px;
+    margin-bottom: 10px;
+}
+/* ===============================
+ Sidebar
+=============================== */
+ .see-more {
+    margin-bottom: 10px;
+    display: block;
+    font-weight: bold;
+}
+.sidebar-one {
+    background: rgba(225, 225, 225, 0.5);
+}
+/* ===============================
+ Footer
+=============================== */
+ .footer {
+    font-weight: bold;
+    width: 100%;
+    background: url("img/footer.png") center center repeat-x;
+    background-size:2px 46px;
+    height: 46px;
+    padding: 10px;
+    font-size: 10px;
+    position: relative;
+    z-index: 111111111111111;
+}
+.footer a {
+    border-left: 1px solid black;
+    padding: 5px;
+    color: black;
+}
+.footer h3 {
+    float: left;
+    padding-right: 10px;
+    padding-left:100px;
+}
+/* ===============================
+ Media Query
+=============================== */
+ @media screen and (max-width: 960px) {
+    .col-2-3 {
+        width: 100%;
+    }
+    .col-1-3 {
+        width:100%;
+    }
+}
+@media screen and (max-width: 460px) {
+    .navigation__item {
+        width: 50%;
+        background: url("img/btn.png") center center repeat-x;
+    }
+    .navigation__item:last-child {
+        width: 100%;
+    }
+    .footer h3 {
+        display: block;
+    }
+}

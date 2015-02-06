@@ -1,0 +1,93 @@
+/**
+ * Eric Meyer's Reset CSS v2.0 (http://meyerweb.com/eric/tools/css/reset/)
+ * http://cssreset.com
+ */
+ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video, main {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    box-sizing: border-box;
+}
+/* HTML5 display-role reset for older browsers */
+ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+body {
+    font-size:22px;
+    line-height: 1.66;
+}
+h1 {
+    line-height: 2.6;
+}
+h2 {
+    line-height: 1.6;
+}
+/*============================================
+                 Main settings
+============================================*/
+ .header {
+    border-top:5px dotted yellow;
+    border-right:5px solid green;
+    border-left:5px dashed red;
+    border-bottom:5px double purple;
+    width:51%;
+    height: 26%;
+    margin: 10px;
+    text-align: center;
+}
+.header h1 {
+    text-shadow: 7px 5px 7px #A8A3A6;
+    text-transform: uppercase;
+    font-size: 30px;
+}
+.rainbow {
+    width:79%;
+    height: 120px;
+    border:2px solid red;
+    box-shadow: 0 0 0 2px yellow, 0 0 0 4px green, 0 0 0 6px blue;
+    border-radius:60px;
+    margin: auto auto;
+}
+.rainbow h2 {
+    text-shadow: 7px 7px 10px #A8A3A6;
+    margin: 10px;
+}
+.textfield {
+    display: inline-block;
+    background: #d8921a;
+    border:2px outset #ffa600;
+    padding: 0 10px;
+    line-height: 20px;
+}
+.cloud {
+    border-radius: 50%;
+    border:3px dashed white;
+    background: rgba(167, 168, 168, 0.8);
+    box-shadow:0 0 0px 5px rgba(167, 168, 168, 0.8);
+    position:relative;
+}
+.first {
+    top:-80px;
+    left:505px;
+    width: 20px;
+    height:20px;
+}
+.second {
+    top:-145px;
+    left:560px;
+    width: 40px;
+    height:40px;
+}
+.third {
+    width: 100px;
+    height:70px;
+    border-radius: 50px;
+    color: white;
+    font-size: 24px;
+    line-height: 1.2;
+    top:-255px;
+    left: 645px;
+}

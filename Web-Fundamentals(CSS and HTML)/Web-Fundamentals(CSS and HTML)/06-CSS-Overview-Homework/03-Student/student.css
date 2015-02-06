@@ -1,0 +1,105 @@
+/**
+ * Eric Meyer's Reset CSS v2.0 (http://meyerweb.com/eric/tools/css/reset/)
+ * http://cssreset.com
+ */
+ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    margin: 0;
+    padding: 0;
+    vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+body {
+    box-sizing: border-box;
+    line-height: 1;
+}
+/******************************************************/
+ .head {
+    background-color: yellow;
+    border-radius: 50%;
+    border:3px solid #000;
+    height: 446px;
+    margin:20px;
+    position: relative;
+    width:446px;
+}
+.head__nose {
+    background: red;
+    border-radius: 50%;
+    border:3px solid #000;
+    content:" ";
+    display: block;
+    height:72px;
+    left:50%;
+    margin: -36px 0 0 -34px;
+    position: absolute;
+    top:49%;
+    width:72px;
+}
+.head__eye {
+    background-color: white;
+    border-radius: 50%;
+    border:3px solid #000;
+    height: 90px;
+    margin:-44px 0 0 -44px;
+    position: absolute;
+    width:90px;
+	top:28.5%;
+}
+.head__eye--left {
+    left:28%;
+}
+.head__eye--right {
+    left:69%;
+}
+.head__eye__iris {
+    background: black;
+    border-radius: 50%;
+    content:" ";
+    display: block;
+    height: 27px;
+    position:absolute;
+    width: 27px;
+}
+.head__eye__iris--left {
+    left:60px;
+    top:60px;
+}
+.head__eye__iris--right {
+    left:7px;
+    top:-7px;
+}
+.head__mouth {
+    background: white;
+    border-radius: 45px;
+    border:3px solid #000;
+    display: block;
+    height: 90px;
+    left:24%;
+    position: absolute;
+    top:60%;
+    width: 220px;
+}
+.head__mouth__tooth {
+    border-radius: 20%;
+    border-top-left-radius:0;
+    border-top-right-radius:0;
+    border:3px solid #000;
+    display: block;
+    height:43px;
+    position:absolute;
+    top:-3%;
+    width:43px;
+}
+
+.head__mouth__tooth--left {
+    left:70px;
+}
+.head__mouth__tooth--right {
+    left:119px;
+}

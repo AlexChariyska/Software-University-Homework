@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Styling Documents</title>
+    <link type="text/css" rel="stylesheet" href="styling-document.css">
+</head>
+
+<body>
+    <section>
+        <form>
+            <h1 class="heading">Step 1: Your details</h1>
+            <fieldset>
+                <h2>Name</h2>
+                <input type="text" placeholder="First and Last name">
+            </fieldset>
+            <fieldset>
+                <h2>Email</h2>
+                <input type="email" placeholder="example@domain.org">
+            </fieldset>
+            <fieldset>
+                <h2>Phone</h2>
+                <input type="tel" placeholder="ed. +447500000000">
+            </fieldset>
+
+            <h1 class="heading">Step 1: Delivery address</h1>
+            <fieldset>
+                <h2 class="address">Address</h2>
+                <textarea></textarea>
+            </fieldset>
+            <fieldset>
+                <h2>Post code</h2>
+                <input type="number">
+            </fieldset>
+            <fieldset>
+                <h2>Country</h2>
+                <input type="text">
+            </fieldset>
+
+            <h1 class="heading">Step 1: Card details</h1>
+            <fieldset>
+                <h2 class="card">Card type</h2>
+                <input type="radio" id="visa" name="gr-one" value="Visa">
+                <label for="visa" class="visa">Visa</label>
+                <input type="radio" id="amex" name="gr-one" value="amex">
+                <label for="amex" class="amex" >AmEx</label>
+                <input type="radio" id="mastercard" name="gr-one" value="Visa">
+                <label for="mastercard" class="mastercard">Mastercard</label>
+            </fieldset>
+            <fieldset>
+                <h2 >Card number</h2>
+                <input type="number">
+            </fieldset>
+            <fieldset>
+                <h2>Security code</h2>
+                <input type="number">
+            </fieldset>
+            <fieldset>
+                <h2>Name on Card</h2>
+                <input type="text" placeholder="exact name as on the card">
+            </fieldset>
+			<button type="submit" class="btn">Buy it!</button>
+        </form>
+    </section>
+</body>
+
+</html>

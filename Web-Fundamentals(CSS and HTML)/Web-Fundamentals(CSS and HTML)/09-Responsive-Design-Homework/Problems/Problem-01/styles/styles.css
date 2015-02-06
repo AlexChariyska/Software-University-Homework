@@ -1,0 +1,177 @@
+/***************************
+ Reset
+****************************/
+ html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, a, abbr, acronym, address, img, strong, sub, sup, var, b, u, center, ol, ul, li, fieldset, form, label, legend, article, aside, canvas, details, figure, figcaption, footer, header, hgroup, menu, nav, section, summary, time, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    moz-box-sizing: border-box;
+    webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+/* HTML5 display-role reset for older browsers */
+ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+body {
+    line-height: 1;
+}
+ol, ul {
+    list-style: none;
+}
+a {
+    text-decoration: none;
+    color:#000;
+}
+.clearfix {
+    zoom:1;
+}
+.clearfix:after {
+    content:" ";
+    display: block;
+    clear: both;
+}
+/***************************
+ Main
+****************************/
+ body {
+    background-color:#6698FF;
+    font-size: 18px;
+}
+#wrapper {
+    max-width: 960px;
+    margin:0 auto;
+}
+#wrapper>header {
+    margin-bottom: 10px;
+    border-bottom: 1px solid;
+}
+header h1 span {
+    font-size: 28px;
+    color:#fff;
+    font-weight: 900;
+    vertical-align: bottom;
+}
+header h1 img {
+    width: 200px;
+}
+h1 {
+    float: left;
+    width: 100%;
+}
+/***************************
+ Navigation
+****************************/
+ nav li {
+    float: left;
+    background: #fff;
+    padding:5px;
+    border: 1px solid black;
+    margin-right: 5px;
+}
+nav {
+    float: right;
+    position: relative;
+    top: 13px;
+}
+/***************************
+ Content
+****************************/
+ section {
+    width:75%;
+    float: left;
+    margin:10px 10px 10px 0;
+}
+article {
+    border: 1px solid black;
+    padding: 10px;
+    width: 100%;
+    margin:0px 0px 10px 0;
+    background: #E0EAFE;
+}
+article header h1 {
+    font-weight: 900;
+    margin-bottom: 10px;
+}
+.news {
+    margin-top: 10px;
+    padding: 10px;
+    border: 1px solid black;
+    width: 23%;
+    float: left;
+    background: #E0EAFE;
+}
+p::first-letter {
+    padding-left: 20px;
+}
+.block {
+    margin-bottom: 10px;
+}
+footer {
+    display: block;
+    width: 100%;
+    background: #E0EAFE;
+    text-align: center;
+    font-weight: 900;
+    clear:left;
+    border: 1px solid black;
+    padding-top: 10px;
+}
+footer h2 a {
+    color: purple;
+    text-decoration: underline;
+}
+/***************************
+ Media Query
+****************************/
+ @media screen and (max-width: 780px), (min-width: 640px) {
+    section {
+        width:100%;
+    }
+    .news {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    .block {
+        width: 23%;
+        display: inline-block;
+        vertical-align: text-top;
+        text-align: center;
+    }
+    nav li {
+        margin:0 10px;
+        padding:5px 10px;
+    }
+}
+@media screen and (max-width: 639px) {
+    nav li {
+        width: 100%;
+        display: block;
+        position: relative;
+        top:-27px;
+    }
+    nav{
+         margin:0px 20px 0 20px;
+    }
+    header img, span {
+        display: block;
+        width: 100%;
+        margin:auto auto;
+    }
+    header {
+        text-align: center;
+    }
+    .block {
+        width: 100%;
+    }
+    #wrapper>header {
+        border:none;
+    }
+    header span{
+        border-bottom: 1px solid black;
+        padding-bottom: 20px;
+    }
+}

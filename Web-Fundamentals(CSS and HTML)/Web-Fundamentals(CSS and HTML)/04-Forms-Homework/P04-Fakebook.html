@@ -1,0 +1,175 @@
+<!DOCTYPE>
+<html>
+
+<head>
+    <title>Fakebook</title>
+    <style>
+    /**
+ * Eric Meyer's Reset CSS v2.0 (http://meyerweb.com/eric/tools/css/reset/)
+ * http://cssreset.com
+ */
+    html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+        margin: 0;
+        padding: 0;
+        border: 0;
+        font-size: 100%;
+        font: inherit;
+        vertical-align: baseline;
+    }
+    /* HTML5 display-role reset for older browsers */
+    article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+        display: block;
+    }
+    body {
+        line-height: 1;
+    }
+    ol, ul {
+        list-style: none;
+    }
+    blockquote, q {
+        quotes: none;
+    }
+    blockquote:before, blockquote:after, q:before, q:after {
+        content:'';
+        content: none;
+    }
+    table {
+        border-collapse: collapse;
+        border-spacing: 0;
+    }
+    /***************************/
+    body {
+        padding:1%;
+        font-size:14px;
+        background-color: #46629E;
+        color: white;
+    }
+    fieldset {
+        border:1px solid white;
+        border-radius: 7px;
+        float: left;
+        padding: 1%;
+        margin:1%;
+        height: 25%;
+    }
+    fieldset legend {
+        text-align: center;
+    }
+    .first, .buttons-clear {
+        width: 35%;
+    }
+    .second, .buttons-sent {
+        width: 55%;
+    }
+    header {
+        text-align: center;
+        font-size: 20px;
+    }
+    .logo {
+        font-size: 80px;
+    }
+    .buttons-clear, .buttons-sent {
+        border-radius: 5px;
+        background-color: #DDDDDD;
+        border-radius: 6px;
+        padding: 1%;
+        margin:2%;
+    }
+    .none-important {
+        width: 45%;
+        padding: 1%;
+        border-radius: 6px;
+        margin:5px;
+    }
+    .important-first {
+        width: 30%;
+        border-radius: 6px;
+        margin:5px;
+    }
+    .important {
+        width:15%;
+        border-radius: 6px;
+    }
+    .area {
+        width: 98%;
+        border-radius: 6px;
+    }
+    .birthday {
+        width:250px;
+    }
+    #female, #male, #other {
+        margin-right: 5px;
+    }
+    </style>
+</head>
+
+<body>
+    <header>
+        <span class="logo">
+            <strong>fakebook</strong>
+        </span><sub>&#174;</sub>
+        <br/>
+        <h1>
+            <strong>Registration</strong>
+        </h1>
+        <h2>It's safe and it'll always be.</h2>
+    </header>
+    <form>
+        <fieldset class="first">
+            <legend>None: Important information</legend>
+            <input class="none-important" type="text" placeholder="First name" />
+            <input class="none-important" type="text" placeholder="Last name" />
+            <input class="none-important" type="email " placeholder="Your Email" />
+            <input class="none-important" type="tel" placeholder="Phone Number" />
+            <input type="password" class="none-important" placeholder="Your Password" />
+            <input type="url" class="none-important" placeholder="Website" />Birthday:
+            <br/>
+            <input type="datetime-local" class="none-important birthday" value="2014-05-09T01:55">
+            <br/>
+            <input type="radio" name="gender" id="male" value="male">
+            <label for="male">Male</label>
+            <input type="radio" name="gender" id="female" value="female">
+            <label for="female">Female</label>
+            <input type="radio" name="gender" id="other" value="female">
+            <label for="other">Other</label>
+        </fieldset>
+
+        <fieldset class="second">
+            <legend>Important information *required</legend>
+            <select value="Country" class="important-first">
+
+                <option value="-1">Country</option>
+                <option value="0">Bulgaria</option>
+                <option value="1">France</option>
+                <option value="2">UK</option>
+                <option value="2">USA</option>
+            </select>
+            <input class="important-first" type="text" placeholder="Village" required="required" />
+            <input class="important-first" type="text" placeholder="District" required="required" />
+            <input class="important-first" type="text" placeholder="Street" required="required" />
+            <input class="important" type="number" placeholder="Nr" required="required" />
+            <input class="important" type="number" placeholder="Floor" required="required" />
+            <input class="important" type="number" placeholder="Ap Nr" required="required" />
+            <br/>
+            <strong>Door color:</strong>
+            <br/>
+            <input class="important-first" type="color" value="#FC77FF" />
+            <input class="important-first" type="number" placeholder="Water meter Nr" required="required" />
+            <select value="aunt" class="important-first">
+                <option value="-1">Aunt's panties size</option>
+                <option value="0">S</option>
+                <option value="1">M</option>
+                <option value="2">L</option>
+                <option value="2">XXL</option>
+            </select>
+            <br/>More personal information:
+            <br/>
+            <textarea rows="4" class="area">Give us more information!!!</textarea>
+        </fieldset>
+        <br/>
+        <input type="reset" value="Clear form" class="buttons-clear" />
+        <input type="submit" value="Register" class="buttons-sent" />
+    </form>
+</body>
+
+</html>

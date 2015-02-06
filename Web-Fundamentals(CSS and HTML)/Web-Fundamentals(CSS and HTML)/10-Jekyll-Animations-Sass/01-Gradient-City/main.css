@@ -1,0 +1,317 @@
+a {
+  text-decoration: none;
+  color: #c8c8c8; }
+
+/* mixin */
+/* Main styles */
+body {
+  background: #c8c8c8;
+  /* Old browsers */
+  background: -moz-linear-gradient(top, #c8c8c8 0%, white 100%);
+  /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #c8c8c8), color-stop(100%, white));
+  /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(top, #c8c8c8 0%, white 100%);
+  /* Chrome10+,Safari5.1+ */ }
+  body #wrapper > header {
+    width: 920px;
+    height: 150px;
+    text-align: center;
+    margin: 20px auto;
+    border: solid 1px #c8c8c8;
+    box-shadow: 0px 0px 1px #AEAEAE; }
+    body #wrapper > header h1 {
+      font-size: 35px;
+      margin-top: 20px;
+      margin-bottom: 30px; }
+  body #wrapper {
+    width: 960px;
+    color: #80807F;
+    background-color: #fff;
+    border: solid 1px #c8c8c8;
+    box-shadow: 0px 0px 1px #AEAEAE;
+    margin: 0 auto; }
+    body #wrapper header nav {
+      display: block;
+      position: relative;
+      left: 20%;
+      margin-bottom: 10px; }
+      body #wrapper header nav ul {
+        width: 450px;
+        display: flex;
+        justify-content: space-between; }
+        body #wrapper header nav ul li {
+          display: inline-block;
+          margin-bottom: 10px; }
+          body #wrapper header nav ul li a {
+            display: block;
+            padding: 10px 25px;
+            border: solid 1px #c8c8c8;
+            box-shadow: 0px 0px 1px #AEAEAE; }
+            body #wrapper header nav ul li a:hover {
+              color: #fff;
+              background: #c8c8c8;
+              /* Old browsers */
+              background: -moz-linear-gradient(top, #c8c8c8 0%, white 100%);
+              /* FF3.6+ */
+              background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #c8c8c8), color-stop(100%, white));
+              /* Chrome,Safari4+ */
+              background: -webkit-linear-gradient(top, #c8c8c8 0%, white 100%);
+              /* Chrome10+,Safari5.1+ */ }
+    body #wrapper section {
+      border: solid 1px #c8c8c8;
+      box-shadow: 0px 0px 1px #AEAEAE;
+      margin: 20px; }
+      body #wrapper section h1 {
+        margin: 20px;
+        text-align: center; }
+      body #wrapper section article {
+        border: solid 1px #c8c8c8;
+        margin: 20px;
+        text-align: center; }
+        body #wrapper section article header h2 {
+          font-size: 16px; }
+        body #wrapper section article div {
+          margin-bottom: 10px; }
+          body #wrapper section article div::after {
+            content: "";
+            clear: both;
+            display: block; }
+          body #wrapper section article div div {
+            width: 135px;
+            height: 135px;
+            display: inline-block;
+            float: left;
+            border-radius: 20px; }
+            body #wrapper section article div div:first-child {
+              margin-left: 25px; }
+    body #wrapper section.radial article .innerContainer div {
+      margin-top: 20px; }
+    body #wrapper section.radial article .innerContainer .purple {
+      background: purple;
+      /* Old browsers */
+      background: -moz-radial-gradient(center, ellipse cover, purple 0%, white 100%, #7db9e8 100%);
+      /* FF3.6+ */
+      background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%, purple), color-stop(100%, white), color-stop(100%, #7db9e8));
+      /* Chrome,Safari4+ */
+      background: -webkit-radial-gradient(center, ellipse cover, purple 0%, white 100%, #7db9e8 100%);
+      /* Chrome10+,Safari5.1+ */ }
+    body #wrapper section.radial article .innerContainer .blue {
+      background: blue;
+      /* Old browsers */
+      background: -moz-radial-gradient(center, ellipse cover, blue 0%, white 100%, #7db9e8 100%);
+      /* FF3.6+ */
+      background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%, blue), color-stop(100%, white), color-stop(100%, #7db9e8));
+      /* Chrome,Safari4+ */
+      background: -webkit-radial-gradient(center, ellipse cover, blue 0%, white 100%, #7db9e8 100%);
+      /* Chrome10+,Safari5.1+ */ }
+    body #wrapper section.radial article .innerContainer .green {
+      background: green;
+      /* Old browsers */
+      background: -moz-radial-gradient(center, ellipse cover, green 0%, white 100%, #7db9e8 100%);
+      /* FF3.6+ */
+      background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%, green), color-stop(100%, white), color-stop(100%, #7db9e8));
+      /* Chrome,Safari4+ */
+      background: -webkit-radial-gradient(center, ellipse cover, green 0%, white 100%, #7db9e8 100%);
+      /* Chrome10+,Safari5.1+ */ }
+    body #wrapper section.radial article .innerContainer .yellow {
+      background: yellow;
+      /* Old browsers */
+      background: -moz-radial-gradient(center, ellipse cover, yellow 0%, white 100%, #7db9e8 100%);
+      /* FF3.6+ */
+      background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%, yellow), color-stop(100%, white), color-stop(100%, #7db9e8));
+      /* Chrome,Safari4+ */
+      background: -webkit-radial-gradient(center, ellipse cover, yellow 0%, white 100%, #7db9e8 100%);
+      /* Chrome10+,Safari5.1+ */ }
+    body #wrapper section.radial article .innerContainer .orange {
+      background: orange;
+      /* Old browsers */
+      background: -moz-radial-gradient(center, ellipse cover, orange 0%, white 100%, #7db9e8 100%);
+      /* FF3.6+ */
+      background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%, orange), color-stop(100%, white), color-stop(100%, #7db9e8));
+      /* Chrome,Safari4+ */
+      background: -webkit-radial-gradient(center, ellipse cover, orange 0%, white 100%, #7db9e8 100%);
+      /* Chrome10+,Safari5.1+ */ }
+    body #wrapper section.radial article .innerContainer .red {
+      background: orange;
+      /* Old browsers */
+      background: -moz-radial-gradient(center, ellipse cover, orange 0%, white 100%, #7db9e8 100%);
+      /* FF3.6+ */
+      background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%, orange), color-stop(100%, white), color-stop(100%, #7db9e8));
+      /* Chrome,Safari4+ */
+      background: -webkit-radial-gradient(center, ellipse cover, orange 0%, white 100%, #7db9e8 100%);
+      /* Chrome10+,Safari5.1+ */ }
+    body #wrapper #vertical ~ .innerContainer .purple {
+      background: purple;
+      /* Old browsers */
+      background: -moz-linear-gradient(top, purple 0%, white 100%);
+      /* FF3.6+ */
+      background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, purple), color-stop(100%, white));
+      /* Chrome,Safari4+ */
+      background: -webkit-linear-gradient(top, purple 0%, white 100%);
+      /* Chrome10+,Safari5.1+ */ }
+    body #wrapper #vertical ~ .innerContainer .blue {
+      background: blue;
+      /* Old browsers */
+      background: -moz-linear-gradient(top, blue 0%, white 100%);
+      /* FF3.6+ */
+      background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, blue), color-stop(100%, white));
+      /* Chrome,Safari4+ */
+      background: -webkit-linear-gradient(top, blue 0%, white 100%);
+      /* Chrome10+,Safari5.1+ */ }
+    body #wrapper #vertical ~ .innerContainer .green {
+      background: green;
+      /* Old browsers */
+      background: -moz-linear-gradient(top, green 0%, white 100%);
+      /* FF3.6+ */
+      background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, green), color-stop(100%, white));
+      /* Chrome,Safari4+ */
+      background: -webkit-linear-gradient(top, green 0%, white 100%);
+      /* Chrome10+,Safari5.1+ */ }
+    body #wrapper #vertical ~ .innerContainer .yellow {
+      background: yellow;
+      /* Old browsers */
+      background: -moz-linear-gradient(top, yellow 0%, white 100%);
+      /* FF3.6+ */
+      background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, yellow), color-stop(100%, white));
+      /* Chrome,Safari4+ */
+      background: -webkit-linear-gradient(top, yellow 0%, white 100%);
+      /* Chrome10+,Safari5.1+ */ }
+    body #wrapper #vertical ~ .innerContainer .orange {
+      background: orange;
+      /* Old browsers */
+      background: -moz-linear-gradient(top, orange 0%, white 100%);
+      /* FF3.6+ */
+      background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, orange), color-stop(100%, white));
+      /* Chrome,Safari4+ */
+      background: -webkit-linear-gradient(top, orange 0%, white 100%);
+      /* Chrome10+,Safari5.1+ */ }
+    body #wrapper #vertical ~ .innerContainer .red {
+      background: orange;
+      /* Old browsers */
+      background: -moz-linear-gradient(top, orange 0%, white 100%);
+      /* FF3.6+ */
+      background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, orange), color-stop(100%, white));
+      /* Chrome,Safari4+ */
+      background: -webkit-linear-gradient(top, orange 0%, white 100%);
+      /* Chrome10+,Safari5.1+ */ }
+    body #wrapper #horizontal ~ .innerContainer .purple {
+      background: purple;
+      /* Old browsers */
+      background: -moz-linear-gradient(left, purple 0%, white 100%, #7db9e8 100%);
+      /* FF3.6+ */
+      background: -webkit-gradient(linear, left top, right top, color-stop(0%, purple), color-stop(100%, white), color-stop(100%, #7db9e8));
+      /* Chrome,Safari4+ */
+      background: -webkit-linear-gradient(left, purple 0%, white 100%, #7db9e8 100%);
+      /* Chrome10+,Safari5.1+ */ }
+    body #wrapper #horizontal ~ .innerContainer .blue {
+      background: blue;
+      /* Old browsers */
+      background: -moz-linear-gradient(left, blue 0%, white 100%, #7db9e8 100%);
+      /* FF3.6+ */
+      background: -webkit-gradient(linear, left top, right top, color-stop(0%, blue), color-stop(100%, white), color-stop(100%, #7db9e8));
+      /* Chrome,Safari4+ */
+      background: -webkit-linear-gradient(left, blue 0%, white 100%, #7db9e8 100%);
+      /* Chrome10+,Safari5.1+ */ }
+    body #wrapper #horizontal ~ .innerContainer .green {
+      background: green;
+      /* Old browsers */
+      background: -moz-linear-gradient(left, green 0%, white 100%, #7db9e8 100%);
+      /* FF3.6+ */
+      background: -webkit-gradient(linear, left top, right top, color-stop(0%, green), color-stop(100%, white), color-stop(100%, #7db9e8));
+      /* Chrome,Safari4+ */
+      background: -webkit-linear-gradient(left, green 0%, white 100%, #7db9e8 100%);
+      /* Chrome10+,Safari5.1+ */ }
+    body #wrapper #horizontal ~ .innerContainer .yellow {
+      background: yellow;
+      /* Old browsers */
+      background: -moz-linear-gradient(left, yellow 0%, white 100%, #7db9e8 100%);
+      /* FF3.6+ */
+      background: -webkit-gradient(linear, left top, right top, color-stop(0%, yellow), color-stop(100%, white), color-stop(100%, #7db9e8));
+      /* Chrome,Safari4+ */
+      background: -webkit-linear-gradient(left, yellow 0%, white 100%, #7db9e8 100%);
+      /* Chrome10+,Safari5.1+ */ }
+    body #wrapper #horizontal ~ .innerContainer .orange {
+      background: orange;
+      /* Old browsers */
+      background: -moz-linear-gradient(left, orange 0%, white 100%, #7db9e8 100%);
+      /* FF3.6+ */
+      background: -webkit-gradient(linear, left top, right top, color-stop(0%, orange), color-stop(100%, white), color-stop(100%, #7db9e8));
+      /* Chrome,Safari4+ */
+      background: -webkit-linear-gradient(left, orange 0%, white 100%, #7db9e8 100%);
+      /* Chrome10+,Safari5.1+ */ }
+    body #wrapper #horizontal ~ .innerContainer .red {
+      background: orange;
+      /* Old browsers */
+      background: -moz-linear-gradient(left, orange 0%, white 100%, #7db9e8 100%);
+      /* FF3.6+ */
+      background: -webkit-gradient(linear, left top, right top, color-stop(0%, orange), color-stop(100%, white), color-stop(100%, #7db9e8));
+      /* Chrome,Safari4+ */
+      background: -webkit-linear-gradient(left, orange 0%, white 100%, #7db9e8 100%);
+      /* Chrome10+,Safari5.1+ */ }
+    body #wrapper #diagonal ~ .innerContainer .purple {
+      background: purple;
+      /* Old browsers */
+      background: -moz-linear-gradient(-45deg, purple 0%, white 100%, #7db9e8 100%);
+      /* FF3.6+ */
+      background: -webkit-gradient(linear, left top, right bottom, color-stop(0%, purple), color-stop(100%, white), color-stop(100%, #7db9e8));
+      /* Chrome,Safari4+ */
+      background: -webkit-linear-gradient(-45deg, purple 0%, white 100%, #7db9e8 100%);
+      /* Chrome10+,Safari5.1+ */ }
+    body #wrapper #diagonal ~ .innerContainer .blue {
+      background: blue;
+      /* Old browsers */
+      background: -moz-linear-gradient(-45deg, blue 0%, white 100%, #7db9e8 100%);
+      /* FF3.6+ */
+      background: -webkit-gradient(linear, left top, right bottom, color-stop(0%, blue), color-stop(100%, white), color-stop(100%, #7db9e8));
+      /* Chrome,Safari4+ */
+      background: -webkit-linear-gradient(-45deg, blue 0%, white 100%, #7db9e8 100%);
+      /* Chrome10+,Safari5.1+ */ }
+    body #wrapper #diagonal ~ .innerContainer .green {
+      background: green;
+      /* Old browsers */
+      background: -moz-linear-gradient(-45deg, green 0%, white 100%, #7db9e8 100%);
+      /* FF3.6+ */
+      background: -webkit-gradient(linear, left top, right bottom, color-stop(0%, green), color-stop(100%, white), color-stop(100%, #7db9e8));
+      /* Chrome,Safari4+ */
+      background: -webkit-linear-gradient(-45deg, green 0%, white 100%, #7db9e8 100%);
+      /* Chrome10+,Safari5.1+ */ }
+    body #wrapper #diagonal ~ .innerContainer .yellow {
+      background: yellow;
+      /* Old browsers */
+      background: -moz-linear-gradient(-45deg, yellow 0%, white 100%, #7db9e8 100%);
+      /* FF3.6+ */
+      background: -webkit-gradient(linear, left top, right bottom, color-stop(0%, yellow), color-stop(100%, white), color-stop(100%, #7db9e8));
+      /* Chrome,Safari4+ */
+      background: -webkit-linear-gradient(-45deg, yellow 0%, white 100%, #7db9e8 100%);
+      /* Chrome10+,Safari5.1+ */ }
+    body #wrapper #diagonal ~ .innerContainer .orange {
+      background: orange;
+      /* Old browsers */
+      background: -moz-linear-gradient(-45deg, orange 0%, white 100%, #7db9e8 100%);
+      /* FF3.6+ */
+      background: -webkit-gradient(linear, left top, right bottom, color-stop(0%, orange), color-stop(100%, white), color-stop(100%, #7db9e8));
+      /* Chrome,Safari4+ */
+      background: -webkit-linear-gradient(-45deg, orange 0%, white 100%, #7db9e8 100%);
+      /* Chrome10+,Safari5.1+ */ }
+    body #wrapper #diagonal ~ .innerContainer .red {
+      background: orange;
+      /* Old browsers */
+      background: -moz-linear-gradient(-45deg, orange 0%, white 100%, #7db9e8 100%);
+      /* FF3.6+ */
+      background: -webkit-gradient(linear, left top, right bottom, color-stop(0%, orange), color-stop(100%, white), color-stop(100%, #7db9e8));
+      /* Chrome,Safari4+ */
+      background: -webkit-linear-gradient(-45deg, orange 0%, white 100%, #7db9e8 100%);
+      /* Chrome10+,Safari5.1+ */ }
+    body #wrapper footer {
+      text-align: center;
+      border: solid 1px #c8c8c8;
+      box-shadow: 0px 0px 1px #AEAEAE;
+      margin: 20px; }
+      body #wrapper footer ul {
+        text-align: center; }
+        body #wrapper footer ul li {
+          list-style-type: none;
+          margin: 5px; }
+  body h1, body h3 {
+    text-decoration: underline; }

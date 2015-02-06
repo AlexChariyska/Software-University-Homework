@@ -1,0 +1,153 @@
+<!DOCTYPE>
+<html>
+
+<head>
+    <title>Flight Order</title>
+    <style>
+    /**
+ * Eric Meyer's Reset CSS v2.0 (http://meyerweb.com/eric/tools/css/reset/)
+ * http://cssreset.com
+ */
+    html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+        margin: 0;
+        padding: 0;
+        border: 0;
+        font-size: 100%;
+        font: inherit;
+        vertical-align: baseline;
+    }
+    /* HTML5 display-role reset for older browsers */
+    article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+        display: block;
+    }
+    body {
+        line-height: 1;
+    }
+    ol, ul {
+        list-style: none;
+    }
+    blockquote, q {
+        quotes: none;
+    }
+    blockquote:before, blockquote:after, q:before, q:after {
+        content:'';
+        content: none;
+    }
+    table {
+        border-collapse: collapse;
+        border-spacing: 0;
+    }
+    /***************************/
+    .wrapper {
+        background-color: #FFC0CB;
+        font-style: italic;
+        float: left;
+        width: 30%;
+    }
+    .first-part, .second-part {
+        float: left;
+        width: 47%;
+        padding:1%;
+        border:none;
+    }
+    .number {
+        width: 30%;
+        margin:1%;
+        float:left;
+        border: none;
+    }
+    #prefers {
+        width: auto;
+    }
+    input {
+        width: 100%;
+    }
+    .first-part {
+    }
+    .second-part {
+    }
+    .hour {
+        width: 45%;
+        margin: 1%;
+        float: left;
+    }
+    h1 {
+        text-align: center;
+        text-transform: uppercase;
+        font-weight: 900;
+    }
+    select {
+        width: 100%;
+    }
+    </style>
+</head>
+
+<body>
+    <div class="wrapper">
+        <h1>
+            Flight Order
+        </h1>
+        <form>
+            <fieldset class="first-part">Form
+                <br/>
+                <select>
+                    <option value="0">Enter a city</option>
+                    <option value="1">Sofia</option>
+                    <option value="2">Plovdiv</option>
+                    <option value="2">Varna</option>
+                </select>
+                <br/>
+                <br/>Departure date:
+                <br/>
+                <input type="date" value="2014-06-10">Return date:
+                <input type="date" value="2014-07-23">
+
+                <fieldset class="number">
+                    +12
+                    <input type="number" min="0" max="30" />
+                </fieldset>
+
+                <fieldset class="number">
+                    2-12
+                    <input type="number" />
+                </fieldset>
+
+                <fieldset class="number">
+                    0-2
+                    <input type="number" />
+                </fieldset>
+            </fieldset>
+
+            <fielset class="second-part">To
+                <br/>
+                <select>
+                    <option value="0">Enter a city</option>
+                    <option value="1">Paris</option>
+                    <option value="2">Rio</option>
+                    <option value="2">Rome</option>
+                </select>
+                <br/>
+                <input type="checkbox" id="prefers">
+                <label for="prefers">Prefers direcs</label>
+                <br/>Time interval:
+                <br/>
+                <input class="hour" type="time" value="hh:mm">
+                <input class="hour" type="time" value="hh:mm">
+                <br/>Time interval:
+                <br/>
+                <input class="hour" type="time" value="hh:mm">
+                <input class="hour" type="time" value="hh:mm">Choose class:
+                <br/>
+                <select>
+                    <option value="0">Economy</option>
+                    <option value="1">First</option>
+                    <option value="2">Second</option>
+                </select>
+                <input type="submit" value="Search">
+            </fielset>
+
+        </form>
+    </div>
+</body>
+
+</html>

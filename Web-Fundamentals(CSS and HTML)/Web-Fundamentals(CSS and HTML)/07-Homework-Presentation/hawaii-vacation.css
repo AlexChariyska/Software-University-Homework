@@ -1,0 +1,67 @@
+/**
+ * Eric Meyer's Reset CSS v2.0 (http://meyerweb.com/eric/tools/css/reset/)
+ * http://cssreset.com
+ */
+ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video, main {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    box-sizing: border-box;
+}
+/* HTML5 display-role reset for older browsers */
+ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+body {
+    font-size:14px;
+    line-height: 1.66;
+    background-size:200px 250px, 100% 900px;
+    border-radius: 50%;
+    background-position: top left, top right;
+    background: background: -moz-linear-gradient(-45deg, rgba(247,244,170,1) 20%, rgba(255,255,255,0) 50%),#007DDB; /* FF3.6+ */
+background: -webkit-gradient(linear, left top, right bottom, color-stop(20%,rgba(247,244,170,1)), color-stop(50%,rgba(255,255,255,0))),#007DDB; /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(-45deg, rgba(247,244,170,1) 20%,rgba(255,255,255,0) 50%),#007DDB; /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(-45deg, rgba(247,244,170,1) 20%,rgba(255,255,255,0) 50%),#007DDB; /* Opera 12+ */
+background: -ms-linear-gradient(-45deg, rgba(247,244,170,1) 20%,rgba(255,255,255,0) 50%),#007DDB; /* IE10+ */
+}
+/*============================================
+                 Main settings
+============================================*/
+ .section {
+    background: url("img/TediHula.png"), 
+                url("img/PetiaHula.png"),
+                url("img/VladoGHula.png"), 
+                url("img/AlexHula.png"),
+                url("img/NakovHula.png"), 
+                url("img/VladoKHula.png"), 
+                url("img/HawaiiBackground.png");
+    background-position:    40% 80%,
+                            35% 70%,
+                            20% 70%,
+                            80% 90%,
+                            65% 80%,
+                            100% 85%,
+                            center center;
+    width: 100%;
+    z-index: 10;
+    background-repeat: no-repeat;
+    height: 900px;
+    background-size:170px 260px, 
+                    280px 460px,
+                    280px 460px, 
+                    280px 460px,
+                    280px 460px,
+                    280px 460px,
+                    100% 900px;
+}
+.section h1 {
+    float:right;
+    font-size: 50px;
+    font-weight: 900;
+    padding: 10px;
+    color:#FFBD15;
+    font-family: "Animated";
+}

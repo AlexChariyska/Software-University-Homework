@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Simple Table</title>
+	<style> 
+	table {
+	border:1px solid;
+	}
+	td {
+	padding:10px;
+	border:1px solid;
+	}
+	.nested th{
+	font-size:40px;
+	border:1px solid;
+	padding:20px;
+	margin:3px;
+	}
+	</style>
+</head>
+
+<body>
+    <table >
+        <colgroup>
+            <col width="170px">
+                <col width="250px">
+        </colgroup>
+
+        <tr>
+            <td>
+                <a href="https://softuni.bg">
+                    <img src="images/SoftUni-logo.png" alt="SoftUni Logo" width="160" height="160">
+                </a>
+            </td>
+            <td>
+                <table class="nested" >
+                    <colgroup>
+                        <col width="250px">
+                    </colgroup>
+                    <tr>
+                        <th >Software</th>
+                    </tr>
+                    <tr>
+                        <th >University</th>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+</body>
+
+
+</html>

@@ -1,0 +1,110 @@
+
+.wrapper {
+
+    box-sizing: border-box;
+
+    max-width: 800px;
+
+    padding: 5px;
+
+    background: gray;
+
+    position: relative;
+
+}
+div{
+	display: inline-block;
+}
+img {
+
+    padding: 5px;
+
+    z-index: 200;
+
+    margin: 10px;
+
+}
+
+img:hover {
+
+    -webkit-animation-name: focus, delay;
+
+    -webkit-animation-duration: 0.2s, 4s;
+
+    -webkit-animation-timing-function: linear, easy-in-out;
+
+    -webkit-animation-iteration-count: 2, 1;
+
+    -webkit-animation-delay: 0.2s, 2s;
+
+}
+
+@-webkit-keyframes focus {
+
+    0% {
+
+        -webkit-transform: rotate(0deg);
+
+    }
+
+    25% {
+
+        -webkit-transform: rotate(-4deg);
+
+    }
+
+    50% {
+
+        -webkit-transform: rotate(0deg);
+
+    }
+
+    75% {
+
+        -webkit-transform: rotate(4deg);
+
+    }
+
+    100% {
+
+        -webkit-transform: rotate(0deg);
+
+    }
+
+}
+
+@-webkit-keyframes delay {
+
+    0% {
+
+        -webkit-transform: translateX(0px) translateY(0px) rotate(0turn);
+
+    }
+
+    25% {
+
+        -webkit-transform: translateX(100px) translateY(100px) rotate(0turn);
+
+    }
+
+    50% {
+
+        -webkit-transform: translateX(200px) translateY(200px) rotate(2turn);
+
+        position: absolute;
+
+    }
+
+    75 {
+
+        -webkit-transform: translateX(100px) translateY(100px) rotate(0turn);
+
+    }
+
+    100% {
+
+        -webkit-transform: translateX(0px) translateY(0px) rotate(0turn);
+
+    }
+
+}
