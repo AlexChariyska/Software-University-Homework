@@ -1,0 +1,5 @@
+C:\Users\alex\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables-Homework\Problem14_ASCII_Table\bin\Debug\Problem14_ASCII_Table.exe.config
+C:\Users\alex\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables-Homework\Problem14_ASCII_Table\bin\Debug\Problem14_ASCII_Table.exe
+C:\Users\alex\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables-Homework\Problem14_ASCII_Table\bin\Debug\Problem14_ASCII_Table.pdb
+C:\Users\alex\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables-Homework\Problem14_ASCII_Table\obj\Debug\Problem14_ASCII_Table.exe
+C:\Users\alex\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables-Homework\Problem14_ASCII_Table\obj\Debug\Problem14_ASCII_Table.pdb

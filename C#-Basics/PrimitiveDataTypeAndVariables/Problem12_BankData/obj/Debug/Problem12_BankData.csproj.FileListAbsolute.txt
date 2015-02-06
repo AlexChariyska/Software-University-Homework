@@ -1,0 +1,5 @@
+C:\Users\alex\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables-Homework\Problem12_BankData\bin\Debug\Problem12_BankData.exe.config
+C:\Users\alex\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables-Homework\Problem12_BankData\bin\Debug\Problem12_BankData.exe
+C:\Users\alex\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables-Homework\Problem12_BankData\bin\Debug\Problem12_BankData.pdb
+C:\Users\alex\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables-Homework\Problem12_BankData\obj\Debug\Problem12_BankData.exe
+C:\Users\alex\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables-Homework\Problem12_BankData\obj\Debug\Problem12_BankData.pdb

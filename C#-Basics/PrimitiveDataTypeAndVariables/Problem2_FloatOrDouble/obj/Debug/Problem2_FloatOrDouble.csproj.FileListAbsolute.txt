@@ -1,0 +1,5 @@
+C:\Users\alex\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables-Homework\Problem2_FloatOrDouble\bin\Debug\Problem2_FloatOrDouble.exe.config
+C:\Users\alex\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables-Homework\Problem2_FloatOrDouble\bin\Debug\Problem2_FloatOrDouble.exe
+C:\Users\alex\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables-Homework\Problem2_FloatOrDouble\bin\Debug\Problem2_FloatOrDouble.pdb
+C:\Users\alex\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables-Homework\Problem2_FloatOrDouble\obj\Debug\Problem2_FloatOrDouble.exe
+C:\Users\alex\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables-Homework\Problem2_FloatOrDouble\obj\Debug\Problem2_FloatOrDouble.pdb

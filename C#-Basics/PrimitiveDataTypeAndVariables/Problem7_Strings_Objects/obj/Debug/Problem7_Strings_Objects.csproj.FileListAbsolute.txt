@@ -1,0 +1,5 @@
+C:\Users\alex\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables-Homework\Problem7_Strings_Objects\bin\Debug\Problem7_Strings_Objects.exe.config
+C:\Users\alex\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables-Homework\Problem7_Strings_Objects\bin\Debug\Problem7_Strings_Objects.exe
+C:\Users\alex\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables-Homework\Problem7_Strings_Objects\bin\Debug\Problem7_Strings_Objects.pdb
+C:\Users\alex\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables-Homework\Problem7_Strings_Objects\obj\Debug\Problem7_Strings_Objects.exe
+C:\Users\alex\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables-Homework\Problem7_Strings_Objects\obj\Debug\Problem7_Strings_Objects.pdb

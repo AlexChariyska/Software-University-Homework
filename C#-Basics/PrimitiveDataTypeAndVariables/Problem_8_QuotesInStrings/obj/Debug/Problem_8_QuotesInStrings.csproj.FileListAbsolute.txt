@@ -1,0 +1,5 @@
+C:\Users\alex\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables-Homework\Problem_8_QuotesInStrings\bin\Debug\Problem_8_QuotesInStrings.exe.config
+C:\Users\alex\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables-Homework\Problem_8_QuotesInStrings\bin\Debug\Problem_8_QuotesInStrings.exe
+C:\Users\alex\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables-Homework\Problem_8_QuotesInStrings\bin\Debug\Problem_8_QuotesInStrings.pdb
+C:\Users\alex\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables-Homework\Problem_8_QuotesInStrings\obj\Debug\Problem_8_QuotesInStrings.exe
+C:\Users\alex\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables-Homework\Problem_8_QuotesInStrings\obj\Debug\Problem_8_QuotesInStrings.pdb
