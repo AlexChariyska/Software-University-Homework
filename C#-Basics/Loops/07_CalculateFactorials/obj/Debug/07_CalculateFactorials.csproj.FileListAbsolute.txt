@@ -1,0 +1,6 @@
+C:\Users\alex\documents\visual studio 2012\Projects\loops-Homework\07_CalculateFactorials\bin\Debug\07_CalculateFactorials.exe.config
+C:\Users\alex\documents\visual studio 2012\Projects\loops-Homework\07_CalculateFactorials\bin\Debug\07_CalculateFactorials.exe
+C:\Users\alex\documents\visual studio 2012\Projects\loops-Homework\07_CalculateFactorials\bin\Debug\07_CalculateFactorials.pdb
+C:\Users\alex\documents\visual studio 2012\Projects\loops-Homework\07_CalculateFactorials\obj\Debug\07_CalculateFactorials.exe
+C:\Users\alex\documents\visual studio 2012\Projects\loops-Homework\07_CalculateFactorials\obj\Debug\07_CalculateFactorials.pdb
+C:\Users\alex\Documents\Visual Studio 2012\Projects\Loops-Homework\07_CalculateFactorials\obj\Debug\07_CalculateFactorials.csprojResolveAssemblyReference.cache

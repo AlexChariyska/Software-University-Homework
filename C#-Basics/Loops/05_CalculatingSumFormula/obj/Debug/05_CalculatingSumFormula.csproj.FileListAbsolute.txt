@@ -1,0 +1,6 @@
+C:\Users\alex\documents\visual studio 2012\Projects\loops-Homework\05_CalculatingSumFormula\bin\Debug\05_CalculatingSumFormula.exe.config
+C:\Users\alex\documents\visual studio 2012\Projects\loops-Homework\05_CalculatingSumFormula\obj\Debug\05_CalculatingSumFormula.csprojResolveAssemblyReference.cache
+C:\Users\alex\documents\visual studio 2012\Projects\loops-Homework\05_CalculatingSumFormula\bin\Debug\05_CalculatingSumFormula.exe
+C:\Users\alex\documents\visual studio 2012\Projects\loops-Homework\05_CalculatingSumFormula\bin\Debug\05_CalculatingSumFormula.pdb
+C:\Users\alex\documents\visual studio 2012\Projects\loops-Homework\05_CalculatingSumFormula\obj\Debug\05_CalculatingSumFormula.exe
+C:\Users\alex\documents\visual studio 2012\Projects\loops-Homework\05_CalculatingSumFormula\obj\Debug\05_CalculatingSumFormula.pdb

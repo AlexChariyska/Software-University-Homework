@@ -1,0 +1,6 @@
+c:\users\alex\documents\visual studio 2012\Projects\Loops-Homework\03_MinMaxSumAverNumbers\bin\Debug\03_MinMaxSumAverNumbers.exe.config
+C:\Users\alex\documents\visual studio 2012\Projects\loops-Homework\03_MinMaxSumAverNumbers\obj\Debug\03_MinMaxSumAverNumbers.csprojResolveAssemblyReference.cache
+C:\Users\alex\documents\visual studio 2012\Projects\loops-Homework\03_MinMaxSumAverNumbers\bin\Debug\03_MinMaxSumAverNumbers.exe
+C:\Users\alex\documents\visual studio 2012\Projects\loops-Homework\03_MinMaxSumAverNumbers\bin\Debug\03_MinMaxSumAverNumbers.pdb
+C:\Users\alex\documents\visual studio 2012\Projects\loops-Homework\03_MinMaxSumAverNumbers\obj\Debug\03_MinMaxSumAverNumbers.exe
+C:\Users\alex\documents\visual studio 2012\Projects\loops-Homework\03_MinMaxSumAverNumbers\obj\Debug\03_MinMaxSumAverNumbers.pdb

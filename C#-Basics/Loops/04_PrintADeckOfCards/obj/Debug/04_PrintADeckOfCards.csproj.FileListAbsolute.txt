@@ -1,0 +1,5 @@
+C:\Users\alex\documents\visual studio 2012\Projects\loops-Homework\04_PrintADeckOfCards\bin\Debug\04_PrintADeckOfCards.exe.config
+C:\Users\alex\documents\visual studio 2012\Projects\loops-Homework\04_PrintADeckOfCards\bin\Debug\04_PrintADeckOfCards.exe
+C:\Users\alex\documents\visual studio 2012\Projects\loops-Homework\04_PrintADeckOfCards\bin\Debug\04_PrintADeckOfCards.pdb
+C:\Users\alex\documents\visual studio 2012\Projects\loops-Homework\04_PrintADeckOfCards\obj\Debug\04_PrintADeckOfCards.exe
+C:\Users\alex\documents\visual studio 2012\Projects\loops-Homework\04_PrintADeckOfCards\obj\Debug\04_PrintADeckOfCards.pdb

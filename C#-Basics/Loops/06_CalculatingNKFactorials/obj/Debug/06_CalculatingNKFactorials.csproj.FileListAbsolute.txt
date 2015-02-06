@@ -1,0 +1,6 @@
+C:\Users\alex\Documents\Visual Studio 2012\Projects\Loops-Homework\06_CalculatingNKFactorials\bin\Debug\06_CalculatingNKFactorials.exe.config
+C:\Users\alex\Documents\Visual Studio 2012\Projects\Loops-Homework\06_CalculatingNKFactorials\bin\Debug\06_CalculatingNKFactorials.exe
+C:\Users\alex\Documents\Visual Studio 2012\Projects\Loops-Homework\06_CalculatingNKFactorials\bin\Debug\06_CalculatingNKFactorials.pdb
+C:\Users\alex\Documents\Visual Studio 2012\Projects\Loops-Homework\06_CalculatingNKFactorials\obj\Debug\06_CalculatingNKFactorials.csprojResolveAssemblyReference.cache
+C:\Users\alex\Documents\Visual Studio 2012\Projects\Loops-Homework\06_CalculatingNKFactorials\obj\Debug\06_CalculatingNKFactorials.exe
+C:\Users\alex\Documents\Visual Studio 2012\Projects\Loops-Homework\06_CalculatingNKFactorials\obj\Debug\06_CalculatingNKFactorials.pdb

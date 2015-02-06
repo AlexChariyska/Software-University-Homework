@@ -1,0 +1,6 @@
+C:\Users\alex\Documents\Visual Studio 2012\Projects\Loops-Homework\10_OddEvenProduct\bin\Debug\10_OddEvenProduct.exe.config
+C:\Users\alex\Documents\Visual Studio 2012\Projects\Loops-Homework\10_OddEvenProduct\obj\Debug\10_OddEvenProduct.csprojResolveAssemblyReference.cache
+C:\Users\alex\Documents\Visual Studio 2012\Projects\Loops-Homework\10_OddEvenProduct\bin\Debug\10_OddEvenProduct.exe
+C:\Users\alex\Documents\Visual Studio 2012\Projects\Loops-Homework\10_OddEvenProduct\bin\Debug\10_OddEvenProduct.pdb
+C:\Users\alex\Documents\Visual Studio 2012\Projects\Loops-Homework\10_OddEvenProduct\obj\Debug\10_OddEvenProduct.exe
+C:\Users\alex\Documents\Visual Studio 2012\Projects\Loops-Homework\10_OddEvenProduct\obj\Debug\10_OddEvenProduct.pdb

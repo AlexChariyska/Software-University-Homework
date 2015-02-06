@@ -1,0 +1,6 @@
+c:\users\alex\documents\visual studio 2012\Projects\Loops-Homework\02_NumbersNotDivisible\bin\Debug\02_NumbersNotDivisible.exe.config
+c:\users\alex\documents\visual studio 2012\Projects\Loops-Homework\02_NumbersNotDivisible\bin\Debug\02_NumbersNotDivisible.exe
+c:\users\alex\documents\visual studio 2012\Projects\Loops-Homework\02_NumbersNotDivisible\bin\Debug\02_NumbersNotDivisible.pdb
+c:\users\alex\documents\visual studio 2012\Projects\Loops-Homework\02_NumbersNotDivisible\obj\Debug\02_NumbersNotDivisible.exe
+c:\users\alex\documents\visual studio 2012\Projects\Loops-Homework\02_NumbersNotDivisible\obj\Debug\02_NumbersNotDivisible.pdb
+C:\Users\alex\Documents\Visual Studio 2012\Projects\Loops-Homework\02_NumbersNotDivisible\obj\Debug\02_NumbersNotDivisible.csprojResolveAssemblyReference.cache

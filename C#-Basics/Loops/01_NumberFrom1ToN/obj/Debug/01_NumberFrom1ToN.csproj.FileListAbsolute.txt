@@ -1,0 +1,5 @@
+c:\users\alex\documents\visual studio 2012\Projects\Loops-Homework\01_NumberFrom1ToN\bin\Debug\01_NumberFrom1ToN.exe.config
+c:\users\alex\documents\visual studio 2012\Projects\Loops-Homework\01_NumberFrom1ToN\bin\Debug\01_NumberFrom1ToN.exe
+c:\users\alex\documents\visual studio 2012\Projects\Loops-Homework\01_NumberFrom1ToN\bin\Debug\01_NumberFrom1ToN.pdb
+c:\users\alex\documents\visual studio 2012\Projects\Loops-Homework\01_NumberFrom1ToN\obj\Debug\01_NumberFrom1ToN.exe
+c:\users\alex\documents\visual studio 2012\Projects\Loops-Homework\01_NumberFrom1ToN\obj\Debug\01_NumberFrom1ToN.pdb
