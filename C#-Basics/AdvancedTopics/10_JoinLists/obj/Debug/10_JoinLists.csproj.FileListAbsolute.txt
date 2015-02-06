@@ -1,0 +1,5 @@
+C:\Users\alex\documents\visual studio 2012\Projects\CSharp-Advanced-Homework\10_JoinLists\bin\Debug\10_JoinLists.exe.config
+C:\Users\alex\documents\visual studio 2012\Projects\CSharp-Advanced-Homework\10_JoinLists\bin\Debug\10_JoinLists.exe
+C:\Users\alex\documents\visual studio 2012\Projects\CSharp-Advanced-Homework\10_JoinLists\bin\Debug\10_JoinLists.pdb
+C:\Users\alex\documents\visual studio 2012\Projects\CSharp-Advanced-Homework\10_JoinLists\obj\Debug\10_JoinLists.exe
+C:\Users\alex\documents\visual studio 2012\Projects\CSharp-Advanced-Homework\10_JoinLists\obj\Debug\10_JoinLists.pdb

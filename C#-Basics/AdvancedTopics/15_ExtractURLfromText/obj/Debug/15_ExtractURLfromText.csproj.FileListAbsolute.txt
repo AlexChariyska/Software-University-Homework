@@ -1,0 +1,5 @@
+C:\Users\alex\documents\visual studio 2012\Projects\CSharp-Advanced-Homework\15_ExtractURLfromText\bin\Debug\15_ExtractURLfromText.exe.config
+C:\Users\alex\documents\visual studio 2012\Projects\CSharp-Advanced-Homework\15_ExtractURLfromText\bin\Debug\15_ExtractURLfromText.exe
+C:\Users\alex\documents\visual studio 2012\Projects\CSharp-Advanced-Homework\15_ExtractURLfromText\bin\Debug\15_ExtractURLfromText.pdb
+C:\Users\alex\documents\visual studio 2012\Projects\CSharp-Advanced-Homework\15_ExtractURLfromText\obj\Debug\15_ExtractURLfromText.exe
+C:\Users\alex\documents\visual studio 2012\Projects\CSharp-Advanced-Homework\15_ExtractURLfromText\obj\Debug\15_ExtractURLfromText.pdb

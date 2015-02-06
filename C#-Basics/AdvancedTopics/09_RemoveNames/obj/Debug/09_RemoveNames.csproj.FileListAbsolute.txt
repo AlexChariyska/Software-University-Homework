@@ -1,0 +1,6 @@
+C:\Users\alex\documents\visual studio 2012\Projects\CSharp-Advanced-Homework\09_RemoveNames\bin\Debug\09_RemoveNames.exe.config
+C:\Users\alex\documents\visual studio 2012\Projects\CSharp-Advanced-Homework\09_RemoveNames\obj\Debug\09_RemoveNames.csprojResolveAssemblyReference.cache
+C:\Users\alex\documents\visual studio 2012\Projects\CSharp-Advanced-Homework\09_RemoveNames\bin\Debug\09_RemoveNames.exe
+C:\Users\alex\documents\visual studio 2012\Projects\CSharp-Advanced-Homework\09_RemoveNames\bin\Debug\09_RemoveNames.pdb
+C:\Users\alex\documents\visual studio 2012\Projects\CSharp-Advanced-Homework\09_RemoveNames\obj\Debug\09_RemoveNames.exe
+C:\Users\alex\documents\visual studio 2012\Projects\CSharp-Advanced-Homework\09_RemoveNames\obj\Debug\09_RemoveNames.pdb

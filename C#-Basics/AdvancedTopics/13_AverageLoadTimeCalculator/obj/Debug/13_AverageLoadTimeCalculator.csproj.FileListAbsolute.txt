@@ -1,0 +1,6 @@
+C:\Users\alex\documents\visual studio 2012\Projects\CSharp-Advanced-Homework\13_AverageLoadTimeCalculator\bin\Debug\13_AverageLoadTimeCalculator.exe.config
+C:\Users\alex\documents\visual studio 2012\Projects\CSharp-Advanced-Homework\13_AverageLoadTimeCalculator\obj\Debug\13_AverageLoadTimeCalculator.csprojResolveAssemblyReference.cache
+C:\Users\alex\Documents\Visual Studio 2012\Projects\CSharp-Advanced-Homework\13_AverageLoadTimeCalculator\bin\Debug\13_AverageLoadTimeCalculator.exe
+C:\Users\alex\Documents\Visual Studio 2012\Projects\CSharp-Advanced-Homework\13_AverageLoadTimeCalculator\bin\Debug\13_AverageLoadTimeCalculator.pdb
+C:\Users\alex\Documents\Visual Studio 2012\Projects\CSharp-Advanced-Homework\13_AverageLoadTimeCalculator\obj\Debug\13_AverageLoadTimeCalculator.exe
+C:\Users\alex\Documents\Visual Studio 2012\Projects\CSharp-Advanced-Homework\13_AverageLoadTimeCalculator\obj\Debug\13_AverageLoadTimeCalculator.pdb
