@@ -1,0 +1,5 @@
+c:\users\alex\documents\visual studio 2012\Projects\Console-Input-Output-Homework\06_QadraticEquation\bin\Debug\06_QadraticEquation.exe.config
+c:\users\alex\documents\visual studio 2012\Projects\Console-Input-Output-Homework\06_QadraticEquation\bin\Debug\06_QadraticEquation.exe
+c:\users\alex\documents\visual studio 2012\Projects\Console-Input-Output-Homework\06_QadraticEquation\bin\Debug\06_QadraticEquation.pdb
+c:\users\alex\documents\visual studio 2012\Projects\Console-Input-Output-Homework\06_QadraticEquation\obj\Debug\06_QadraticEquation.exe
+c:\users\alex\documents\visual studio 2012\Projects\Console-Input-Output-Homework\06_QadraticEquation\obj\Debug\06_QadraticEquation.pdb

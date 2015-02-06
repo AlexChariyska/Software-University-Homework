@@ -1,0 +1,5 @@
+c:\users\alex\documents\visual studio 2012\Projects\Console-Input-Output-Homework\08_NumbersFrom_1_to_n\bin\Debug\08_NumbersFrom_1_to_n.exe.config
+c:\users\alex\documents\visual studio 2012\Projects\Console-Input-Output-Homework\08_NumbersFrom_1_to_n\bin\Debug\08_NumbersFrom_1_to_n.exe
+c:\users\alex\documents\visual studio 2012\Projects\Console-Input-Output-Homework\08_NumbersFrom_1_to_n\bin\Debug\08_NumbersFrom_1_to_n.pdb
+c:\users\alex\documents\visual studio 2012\Projects\Console-Input-Output-Homework\08_NumbersFrom_1_to_n\obj\Debug\08_NumbersFrom_1_to_n.exe
+c:\users\alex\documents\visual studio 2012\Projects\Console-Input-Output-Homework\08_NumbersFrom_1_to_n\obj\Debug\08_NumbersFrom_1_to_n.pdb
