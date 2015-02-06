@@ -1,0 +1,6 @@
+C:\Users\alex\Desktop\ConditionalStatements-Homework\ConditionalStatements-Homework\09_PlayWithTypes\bin\Debug\09_PlayWithTypes.exe.config
+C:\Users\alex\Desktop\ConditionalStatements-Homework\ConditionalStatements-Homework\09_PlayWithTypes\bin\Debug\09_PlayWithTypes.exe
+C:\Users\alex\Desktop\ConditionalStatements-Homework\ConditionalStatements-Homework\09_PlayWithTypes\bin\Debug\09_PlayWithTypes.pdb
+C:\Users\alex\Desktop\ConditionalStatements-Homework\ConditionalStatements-Homework\09_PlayWithTypes\obj\Debug\09_PlayWithTypes.csprojResolveAssemblyReference.cache
+C:\Users\alex\Desktop\ConditionalStatements-Homework\ConditionalStatements-Homework\09_PlayWithTypes\obj\Debug\09_PlayWithTypes.exe
+C:\Users\alex\Desktop\ConditionalStatements-Homework\ConditionalStatements-Homework\09_PlayWithTypes\obj\Debug\09_PlayWithTypes.pdb

@@ -1,0 +1,1 @@
+c:\users\alex\documents\visual studio 2012\Projects\Console-Input-Output-Homework\01. SumOf3Integers\bin\Debug\_01.SumOf3Integers.exe.config

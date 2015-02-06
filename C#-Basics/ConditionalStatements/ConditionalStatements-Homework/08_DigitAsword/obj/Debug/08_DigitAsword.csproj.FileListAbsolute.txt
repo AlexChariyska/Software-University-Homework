@@ -1,0 +1,10 @@
+C:\Users\UniUser\Desktop\ConditionalStatements-Homework\08_DigitAsword\bin\Debug\08_DigitAsword.exe.config
+C:\Users\UniUser\Desktop\ConditionalStatements-Homework\08_DigitAsword\bin\Debug\08_DigitAsword.exe
+C:\Users\UniUser\Desktop\ConditionalStatements-Homework\08_DigitAsword\bin\Debug\08_DigitAsword.pdb
+C:\Users\UniUser\Desktop\ConditionalStatements-Homework\08_DigitAsword\obj\Debug\08_DigitAsword.exe
+C:\Users\UniUser\Desktop\ConditionalStatements-Homework\08_DigitAsword\obj\Debug\08_DigitAsword.pdb
+C:\Users\alex\Desktop\ConditionalStatements-Homework\ConditionalStatements-Homework\08_DigitAsword\bin\Debug\08_DigitAsword.exe.config
+C:\Users\alex\Desktop\ConditionalStatements-Homework\ConditionalStatements-Homework\08_DigitAsword\obj\Debug\08_DigitAsword.exe
+C:\Users\alex\Desktop\ConditionalStatements-Homework\ConditionalStatements-Homework\08_DigitAsword\obj\Debug\08_DigitAsword.pdb
+C:\Users\alex\Desktop\ConditionalStatements-Homework\ConditionalStatements-Homework\08_DigitAsword\bin\Debug\08_DigitAsword.exe
+C:\Users\alex\Desktop\ConditionalStatements-Homework\ConditionalStatements-Homework\08_DigitAsword\bin\Debug\08_DigitAsword.pdb
