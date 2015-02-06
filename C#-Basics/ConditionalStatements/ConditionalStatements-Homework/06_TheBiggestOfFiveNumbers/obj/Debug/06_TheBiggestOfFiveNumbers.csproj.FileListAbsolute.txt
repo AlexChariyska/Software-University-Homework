@@ -1,0 +1,10 @@
+C:\Users\UniUser\Desktop\ConditionalStatements-Homework\06_TheBiggestOfFiveNumbers\bin\Debug\06_TheBiggestOfFiveNumbers.exe.config
+C:\Users\UniUser\Desktop\ConditionalStatements-Homework\06_TheBiggestOfFiveNumbers\bin\Debug\06_TheBiggestOfFiveNumbers.exe
+C:\Users\UniUser\Desktop\ConditionalStatements-Homework\06_TheBiggestOfFiveNumbers\bin\Debug\06_TheBiggestOfFiveNumbers.pdb
+C:\Users\UniUser\Desktop\ConditionalStatements-Homework\06_TheBiggestOfFiveNumbers\obj\Debug\06_TheBiggestOfFiveNumbers.exe
+C:\Users\UniUser\Desktop\ConditionalStatements-Homework\06_TheBiggestOfFiveNumbers\obj\Debug\06_TheBiggestOfFiveNumbers.pdb
+C:\Users\alex\Desktop\ConditionalStatements-Homework\ConditionalStatements-Homework\06_TheBiggestOfFiveNumbers\bin\Debug\06_TheBiggestOfFiveNumbers.exe.config
+C:\Users\alex\Desktop\ConditionalStatements-Homework\ConditionalStatements-Homework\06_TheBiggestOfFiveNumbers\obj\Debug\06_TheBiggestOfFiveNumbers.exe
+C:\Users\alex\Desktop\ConditionalStatements-Homework\ConditionalStatements-Homework\06_TheBiggestOfFiveNumbers\obj\Debug\06_TheBiggestOfFiveNumbers.pdb
+C:\Users\alex\Desktop\ConditionalStatements-Homework\ConditionalStatements-Homework\06_TheBiggestOfFiveNumbers\bin\Debug\06_TheBiggestOfFiveNumbers.exe
+C:\Users\alex\Desktop\ConditionalStatements-Homework\ConditionalStatements-Homework\06_TheBiggestOfFiveNumbers\bin\Debug\06_TheBiggestOfFiveNumbers.pdb

@@ -1,0 +1,10 @@
+C:\Users\UniUser\Desktop\ConditionalStatements-Homework\02_BonusScore\bin\Debug\02_BonusScore.exe.config
+C:\Users\UniUser\Desktop\ConditionalStatements-Homework\02_BonusScore\bin\Debug\02_BonusScore.exe
+C:\Users\UniUser\Desktop\ConditionalStatements-Homework\02_BonusScore\bin\Debug\02_BonusScore.pdb
+C:\Users\UniUser\Desktop\ConditionalStatements-Homework\02_BonusScore\obj\Debug\02_BonusScore.exe
+C:\Users\UniUser\Desktop\ConditionalStatements-Homework\02_BonusScore\obj\Debug\02_BonusScore.pdb
+C:\Users\alex\Desktop\ConditionalStatements-Homework\ConditionalStatements-Homework\02_BonusScore\bin\Debug\02_BonusScore.exe.config
+C:\Users\alex\Desktop\ConditionalStatements-Homework\ConditionalStatements-Homework\02_BonusScore\obj\Debug\02_BonusScore.exe
+C:\Users\alex\Desktop\ConditionalStatements-Homework\ConditionalStatements-Homework\02_BonusScore\obj\Debug\02_BonusScore.pdb
+C:\Users\alex\Desktop\ConditionalStatements-Homework\ConditionalStatements-Homework\02_BonusScore\bin\Debug\02_BonusScore.exe
+C:\Users\alex\Desktop\ConditionalStatements-Homework\ConditionalStatements-Homework\02_BonusScore\bin\Debug\02_BonusScore.pdb

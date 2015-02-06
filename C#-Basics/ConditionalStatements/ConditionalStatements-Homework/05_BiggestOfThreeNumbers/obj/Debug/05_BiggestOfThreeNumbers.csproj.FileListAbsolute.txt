@@ -1,0 +1,10 @@
+C:\Users\UniUser\Desktop\ConditionalStatements-Homework\05_BiggestOfThreeNumbers\bin\Debug\05_BiggestOfThreeNumbers.exe.config
+C:\Users\UniUser\Desktop\ConditionalStatements-Homework\05_BiggestOfThreeNumbers\bin\Debug\05_BiggestOfThreeNumbers.exe
+C:\Users\UniUser\Desktop\ConditionalStatements-Homework\05_BiggestOfThreeNumbers\bin\Debug\05_BiggestOfThreeNumbers.pdb
+C:\Users\UniUser\Desktop\ConditionalStatements-Homework\05_BiggestOfThreeNumbers\obj\Debug\05_BiggestOfThreeNumbers.exe
+C:\Users\UniUser\Desktop\ConditionalStatements-Homework\05_BiggestOfThreeNumbers\obj\Debug\05_BiggestOfThreeNumbers.pdb
+C:\Users\alex\Desktop\ConditionalStatements-Homework\ConditionalStatements-Homework\05_BiggestOfThreeNumbers\bin\Debug\05_BiggestOfThreeNumbers.exe.config
+C:\Users\alex\Desktop\ConditionalStatements-Homework\ConditionalStatements-Homework\05_BiggestOfThreeNumbers\obj\Debug\05_BiggestOfThreeNumbers.exe
+C:\Users\alex\Desktop\ConditionalStatements-Homework\ConditionalStatements-Homework\05_BiggestOfThreeNumbers\obj\Debug\05_BiggestOfThreeNumbers.pdb
+C:\Users\alex\Desktop\ConditionalStatements-Homework\ConditionalStatements-Homework\05_BiggestOfThreeNumbers\bin\Debug\05_BiggestOfThreeNumbers.exe
+C:\Users\alex\Desktop\ConditionalStatements-Homework\ConditionalStatements-Homework\05_BiggestOfThreeNumbers\bin\Debug\05_BiggestOfThreeNumbers.pdb

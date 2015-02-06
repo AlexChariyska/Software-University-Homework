@@ -1,0 +1,10 @@
+C:\Users\UniUser\Desktop\ConditionalStatements-Homework\03_PlayCardCheck\bin\Debug\03_PlayCardCheck.exe.config
+C:\Users\UniUser\Desktop\ConditionalStatements-Homework\03_PlayCardCheck\bin\Debug\03_PlayCardCheck.exe
+C:\Users\UniUser\Desktop\ConditionalStatements-Homework\03_PlayCardCheck\bin\Debug\03_PlayCardCheck.pdb
+C:\Users\UniUser\Desktop\ConditionalStatements-Homework\03_PlayCardCheck\obj\Debug\03_PlayCardCheck.exe
+C:\Users\UniUser\Desktop\ConditionalStatements-Homework\03_PlayCardCheck\obj\Debug\03_PlayCardCheck.pdb
+C:\Users\alex\Desktop\ConditionalStatements-Homework\ConditionalStatements-Homework\03_PlayCardCheck\bin\Debug\03_PlayCardCheck.exe.config
+C:\Users\alex\Desktop\ConditionalStatements-Homework\ConditionalStatements-Homework\03_PlayCardCheck\obj\Debug\03_PlayCardCheck.exe
+C:\Users\alex\Desktop\ConditionalStatements-Homework\ConditionalStatements-Homework\03_PlayCardCheck\obj\Debug\03_PlayCardCheck.pdb
+C:\Users\alex\Desktop\ConditionalStatements-Homework\ConditionalStatements-Homework\03_PlayCardCheck\bin\Debug\03_PlayCardCheck.exe
+C:\Users\alex\Desktop\ConditionalStatements-Homework\ConditionalStatements-Homework\03_PlayCardCheck\bin\Debug\03_PlayCardCheck.pdb
