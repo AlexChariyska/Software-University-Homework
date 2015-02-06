@@ -1,0 +1,5 @@
+c:\users\alex\documents\visual studio 2012\Projects\Intro-Programming-Homework\CurrentDateTime\bin\Debug\CurrentDateTime.exe.config
+c:\users\alex\documents\visual studio 2012\Projects\Intro-Programming-Homework\CurrentDateTime\bin\Debug\CurrentDateTime.exe
+c:\users\alex\documents\visual studio 2012\Projects\Intro-Programming-Homework\CurrentDateTime\bin\Debug\CurrentDateTime.pdb
+c:\users\alex\documents\visual studio 2012\Projects\Intro-Programming-Homework\CurrentDateTime\obj\Debug\CurrentDateTime.exe
+c:\users\alex\documents\visual studio 2012\Projects\Intro-Programming-Homework\CurrentDateTime\obj\Debug\CurrentDateTime.pdb
