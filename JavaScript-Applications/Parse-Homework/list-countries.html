@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Parse.com : View All Countries</title>
+    <script src="https://code.jquery.com/jquery-1.11.0.min.js"></script>
+    <script type="text/javascript" src="jquery.noty.packaged.min.js"></script>
+    <style>
+        button {
+            margin: 5px;
+            width: 100px;
+        }
+    </style>
+</head>
+
+<body>
+<section class="widget">
+    <h2>Countries</h2>
+    <ul id="countries">
+    </ul>
+    <input type="text" id="value">
+    <br/>
+    <button id="btnAddCountry"> Add country</button>
+    <br/>
+    <button id="btnDeleteCountry"> Delete country</button>
+    <br/>
+    <button id="btnEditCountry"> Edit country</button>
+</section>
+<div id="towns" style="display: none">
+    <h2>Towns</h2>
+    <ul>
+    </ul>
+    <input type="text" id="townInput">
+    <br/>
+    <button id="btnAddTown"> Add town</button>
+    <br/>
+    <button id="btnDeleteTown"> Delete town</button>
+    <hr/>
+    Which town do you want to be edit?
+    <input id="townToBeEdit">
+    <br/>
+    Your new value:
+    <input id="townNewValue">
+    <button id="btnEditTown"> Edit town</button>
+</div>
+
+<script type="text/javascript">
+$(function () {
+    var PARSE_APP_ID = "J2cdQsUaSwvKuQtxCVBgMXr2qAnxVMkutbTwnCRW";
+    var PARSE_REST_API_KEY = "KhdSAgWkZk9EX0vbjwmFT8VA2lWUMH6UGF4zhp2I";
+    var countriesList;
+    var townsList;
+
+    loadCountries();
+
+    $("#btnAddCountry").click(addCountry);
+    $("#btnDeleteCountry").click(deleteCountry);
+    $("#btnAddTown").click(addTown);
+    $("#btnDeleteTown").click(deleteTown);
+    $("#btnEditTown").click(editTown);
+    $("#btnEditCountry").click(editCountry);
+
+    function findByInputId(searchedVariable, arrForSearch) {
+        var itemID;
+        for (var x in arrForSearch.results) {
+            var item = arrForSearch.results[x];
+            if (item.name === searchedVariable) {
+                itemID = item.objectId;
+                return itemID;
+            }
+        }
+    }
+
+    function addCountry() {
+        var inputCountry = $('#value').val();
+        $.ajax({
+            method: "POST",
+            headers: {
+                "X-Parse-Application-Id": PARSE_APP_ID,
+                "X-Parse-REST-API-Key": PARSE_REST_API_KEY
+            },
+            url: 'https://api.parse.com/1/classes/Country/',
+            data: JSON.stringify({"name": encodeURI(inputCountry)}),
+            contentType: "application/json",
+            success: addedSuccesfully,
+            error: ajaxError
+        });
+    }
+
+
+    function deleteCountry() {
+        var inputCountry = $('#value').val();
+        var countryForDelID = findByInputId(inputCountry, countriesList);
+
+        $.ajax({
+            url: 'https://api.parse.com/1/classes/Country/' + countryForDelID,
+            type: 'DELETE',
+            headers: {
+                "X-Parse-Application-Id": PARSE_APP_ID,
+                "X-Parse-REST-API-Key": PARSE_REST_API_KEY
+            },
+            success: deletedSuccesfully,
+            error: ajaxError
+        });
+    }
+
+
+    function addTown() {
+        var selectedCountry = $("#towns h2").text();
+        var inputTown = $('#townInput').val();
+        var countryID = findByInputId(selectedCountry, countriesList);
+
+        $.ajax({
+            method: "POST",
+            headers: {
+                "X-Parse-Application-Id": PARSE_APP_ID,
+                "X-Parse-REST-API-Key": PARSE_REST_API_KEY
+            },
+            url: 'https://api.parse.com/1/classes/Town/',
+            data: JSON.stringify({
+                'name': encodeURI(inputTown),
+                'country': {
+                    "__type": "Pointer",
+                    "className": "Country",
+                    "objectId": countryID
+                }
+            }),
+            contentType: "application/json",
+            success: addedSuccesfully,
+            error: ajaxError
+        });
+    }
+
+    function deleteTown() {
+        var inputTown = $('#townInput').val();
+        var townForDelID = findByInputId(inputTown, townsList);
+
+        $.ajax({
+            url: 'https://api.parse.com/1/classes/Town/' + townForDelID,
+            type: 'DELETE',
+            headers: {
+                "X-Parse-Application-Id": PARSE_APP_ID,
+                "X-Parse-REST-API-Key": PARSE_REST_API_KEY
+            },
+            success: deletedSuccesfully,
+            error: ajaxError
+        });
+    }
+
+    function editCountry() {
+        var inputCountry = $('#value').val();
+        var selectedCountry = $("#towns h2").text();
+        var countryId = findByInputId(selectedCountry, countriesList);
+
+        $.ajax({
+            url: 'https://api.parse.com/1/classes/Country/' + countryId,
+            type: 'PUT',
+            contentType: 'application/json',
+            data: JSON.stringify({
+                'name': encodeURI(inputCountry)
+            }),
+            headers: {
+                "X-Parse-Application-Id": PARSE_APP_ID,
+                "X-Parse-REST-API-Key": PARSE_REST_API_KEY
+            },
+            success: editedSuccesfully,
+            error: ajaxError
+        });
+    }
+
+    function editTown() {
+        var townNewValue = $('#townNewValue').val();
+        var townName = $('#townToBeEdit').val();
+        var townId = findByInputId(townName, townsList);
+
+        $.ajax({
+            url: 'https://api.parse.com/1/classes/Town/' + townId,
+            type: 'PUT',
+            contentType: 'application/json',
+            data: JSON.stringify({
+                'name': encodeURI(townNewValue)
+            }),
+            headers: {
+                "X-Parse-Application-Id": PARSE_APP_ID,
+                "X-Parse-REST-API-Key": PARSE_REST_API_KEY
+            },
+            success: editedSuccesfully,
+            error: ajaxError
+        });
+    }
+
+    function loadCountries() {
+        jQuery.ajax({
+            method: "GET",
+            headers: {
+                "X-Parse-Application-Id": PARSE_APP_ID,
+                "X-Parse-REST-API-Key": PARSE_REST_API_KEY
+            },
+            url: "https://api.parse.com/1/classes/Country?order=name",
+            success: countiesLoaded,
+            error: ajaxError
+        });
+    }
+
+    function countiesLoaded(data) {
+        for (var c in data.results) {
+            var country = data.results[c];
+            var countryItem = $('<li>');
+            var countyLink = $("<a href='#'>").text(country.name);
+            $(countyLink).data('country', country);
+            countyLink.appendTo(countryItem);
+            $(countyLink).click(countyClicked);
+            countryItem.appendTo($("#countries"));
+        }
+
+        countriesList = data;
+    }
+
+    function countyClicked() {
+        var country = $(this).data('country'),
+                countryId;
+
+        $("#towns").hide();
+        $("#towns h2").text(country.name);
+        countryId = country.objectId;
+        $.ajax({
+            method: "GET",
+            headers: {
+                "X-Parse-Application-Id": PARSE_APP_ID,
+                "X-Parse-REST-API-Key": PARSE_REST_API_KEY
+            },
+            url: 'https://api.parse.com/1/classes/Town?where={"country":{"__type":"Pointer","className":"Country","objectId":"' + countryId + '"}}',
+            success: townsLoaded,
+            error: ajaxError
+        });
+    }
+
+    function townsLoaded(data) {
+        $("#towns ul").html('');
+        for (var t in data.results) {
+            var town = data.results[t];
+            var townsItem = $('<li>');
+            townsItem.text(town.name);
+            townsItem.appendTo($("#towns ul"));
+        }
+        townsList = data;
+        $('#towns').show();
+    }
+
+    function addedSuccesfully() {
+        noty({
+                    text: 'Successfully added',
+                    layout: 'topCenter',
+                    timeout: 2000}
+        );
+    }
+
+    function editedSuccesfully() {
+        noty({
+                    text: 'Edited added',
+                    layout: 'topCenter',
+                    timeout: 2000}
+        );
+    }
+
+    function deletedSuccesfully() {
+        noty({
+                    text: 'Successfully deleted',
+                    layout: 'topCenter',
+                    timeout: 2000}
+        );
+    }
+
+    function ajaxError() {
+        noty({
+                    text: 'Cannot load AJAX data.',
+                    type: 'error',
+                    layout: 'topCenter',
+                    timeout: 5000}
+        );
+    }
+});
+
+</script>
+</body>
+
+</html>

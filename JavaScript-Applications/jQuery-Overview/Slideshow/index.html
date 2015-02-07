@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Slider</title>
+    <style>
+        a {
+            position: absolute;
+            top: 180px;
+            z-index: 10000;
+        }
+
+        #next {
+            right: 5px;
+        }
+
+        #prev {
+            left: 5px;
+        }
+
+        #slider {
+            position: relative;
+            width: 80%;
+            overflow: hidden;
+            height: 350px;
+            margin: 30px auto;
+            border: 1px solid orange;
+        }
+
+        .slide {
+            width: 100%;
+            height: inherit;
+            position: absolute;
+            top: 0;
+            opacity: 0;
+            text-align: center;
+        }
+
+        .slider_nav {
+            text-align: center;
+            width: 150px;
+            margin: 0 auto;
+        }
+        ul {
+            list-style: none;
+        }
+
+    </style>
+</head>
+<body>
+<div id="slider">
+    <div class="slider_nav">
+        <a id="prev" src="#">&lt;</a>
+        <a id="next" src="#">&gt;</a>
+    </div>
+
+    <div id="1" class="slide">
+        <h1>Some header 1</h1>
+
+        <p>Some text</p>
+    </div>
+
+    <div id="2" class="slide">
+        <h2>2</h2>
+        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet
+            dolore magna aliquam erat volutpat.
+            Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea
+            commodo consequat. </p>
+    </div>
+
+    <div id="3" class="slide">
+        <h2>3</h2>
+        <ul>
+            <li>Item</li>
+            <li>Item</li>
+            <li>Item</li>
+        </ul>
+    </div>
+
+    <div id="4" class="slide">
+        <p>Last one 4</p>
+    </div>
+
+</div>
+
+</body>
+<script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
+<script src="slideshow.js"></script>
+</html>

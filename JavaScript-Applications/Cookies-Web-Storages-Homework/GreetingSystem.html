@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Greeting System</title>
+</head>
+<body>
+<div id="form">
+    <input id="value" type="text" placeholder="Insert name"/>
+    <button id="put-btn">Put in local storage</button>
+</div>
+<div id="result">
+</div>
+<script>
+    (function () {
+        var result = document.getElementById('result');
+        var button = document.getElementById('put-btn');
+        var valueText = document.getElementById('value').value;
+
+        if (localStorage.getItem('name')) {
+            result.innerHTML += 'Hello, ' + localStorage.getItem('name') + ' :)' + '<br />';
+            document.getElementById('form').style.display = 'none';
+        } else {
+            button.addEventListener('click', function (e) {
+                var value = document.getElementById('value').value;
+                localStorage.setItem('name', value);
+                result.innerHTML += '<br/>Name added: ' + value + '<br />';
+            });
+        }
+        // Local storage counter
+        if (localStorage.pagecount) {
+            localStorage.pagecount = Number(localStorage.pagecount) + 1;
+        }
+        else {
+            localStorage.pagecount = 1;
+        }
+        result.innerHTML += "<br/>You've been to this page " + localStorage.pagecount + " time(s).";
+
+        // Session counter
+        if (!sessionStorage.counter) {
+            sessionStorage.setItem('counter', 0);
+        }
+        var currentCount = parseInt(sessionStorage.getItem('counter'));
+        currentCount += 1;
+        sessionStorage.setItem('counter', currentCount);
+        result.innerHTML += "<br/>Session counter " + currentCount;
+
+
+    }());
+
+</script>
+</body>
+</html>
