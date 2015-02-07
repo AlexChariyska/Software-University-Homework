@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Canvas</title>
+    <style>
+        #canvasDiv {
+            width: 500px;
+            margin: 5px;
+            border: 1px solid black;
+            padding: 5px;
+        }
+
+        div {
+            width: 400px;
+            border: 1px solid black;
+            padding: 5px;
+            float: left;
+            margin: 5px;
+            min-width: 200px;
+            display: block;
+            font-size: 14px;;
+        }
+
+        input {
+            margin: 5px;
+            width: 40px;
+        }
+
+        textarea {
+            margin: 5px;
+            height: 100px;;
+            width: 90%;
+        }
+    </style>
+</head>
+<body>
+<h1>Canvas API</h1>
+<canvas id="canvasDiv">
+</canvas>
+<div>
+    <label for="x">X: </label><input type="text" id="x">
+    <label for="y">Y: </label><input type="text" id="y">
+    <label for="color">Color:</label><input type="color" id="color"/>
+    <br/>
+    <label for="shape">Shape: </label>
+    <select id="shape">
+        <option value="shapeInitial" selected>
+            -- Chose Shape --
+        </option>
+        <option value="rectangle">
+            Rectangle
+        </option>
+        <option value="circle">
+            Circle
+        </option>
+        <option value="triangle">
+            Triangle
+        </option>
+        <option value="point">
+            Point
+        </option>
+        <option value="segment">
+            Segment
+        </option>
+    </select>
+    <br/>
+    <label for="radius">Radius: </label><input type="text" id="radius">
+    <br/>
+    <label for="width">Width: </label><input type="text" id="width">
+    <label for="height">Height: </label><input type="text" id="height">
+    <br/>
+    <label for="x2">X2: </label><input type="text" id="x2">
+    <label for="y2">Y2: </label><input type="text" id="y2">
+    <br/>
+    <label for="x3">X3: </label><input type="text" id="x3">
+    <label for="y3">Y3: </label><input type="text" id="y3">
+    <br/>
+    <textarea id="textResult"></textarea>
+    <br/>
+    <button id="add">Add</button>
+    <button id="remove">Remove All</button>
+</div>
+</body>
+<script src="Shape.js"></script>
+<script src="CanvasAPI.js"></script>
+</html>

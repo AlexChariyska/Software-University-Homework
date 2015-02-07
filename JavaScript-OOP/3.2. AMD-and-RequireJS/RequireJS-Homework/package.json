@@ -1,0 +1,10 @@
+{
+  "name": "RequireJS_Homework",
+  "version": "0.0.0",
+  "description": "RequireJS-Homework",
+  "main": "app.js",
+  "author": {
+    "name": "Alex",
+    "email": ""
+  }
+}

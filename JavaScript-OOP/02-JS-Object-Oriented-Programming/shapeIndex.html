@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Canvas</title>
+    <script src="Shape.js"></script>
+    <style>
+        #canvasDiv {
+            width: 55%;
+            height: 55%;
+            border: 2px solid black;
+            padding: 5px;
+        }
+    </style>
+</head>
+<body>
+<canvas id="canvasDiv">
+    <script>
+        var circle = new Shapes.Circle(50, 50, "#ff0000", 30);
+        console.log(circle.toString());
+        circle.draw();
+
+        var rect = new Shapes.Rect(220, 52, "black", 40, 300);
+        console.log(rect.toString());
+        rect.draw();
+
+        var point = new Shapes.Point(10, 12, "purple");
+        console.log(point.toString());
+        point.draw();
+
+        var triangle = new Shapes.Triangle(100,110, "black", 200,10, 300,110);
+        triangle.draw();
+
+    </script>
+</canvas>
+</body>
+</html>
