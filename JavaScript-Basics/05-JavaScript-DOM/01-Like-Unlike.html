@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Like</title>
+    <script>
+        function changeText() {
+            var element = document.getElementById('element');
+            if (element.innerHTML === 'Like :)') {
+                element.innerHTML = 'Unlike :(';
+            }
+            else {
+                element.innerHTML = 'Like :)';
+            }
+        }
+    </script>
+</head>
+<body>
+<h1>
+    <a id='element' onClick="javascript:changeText()">Like :)</a>
+</h1>
+</body>
+</html>

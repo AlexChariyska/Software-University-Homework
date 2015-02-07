@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Coordinates</title>
+</head>
+<body>
+<textarea id="area" style="width:600px; height:400px;"></textarea>
+<script>
+    function printMouseCoordinates(ev){
+        document.getElementById('area').innerHTML += 'X: ' + ev.pageX + '; Y: ' + ev.pageY + '; Time: ' + new Date() + '</br>';
+    }
+    document.addEventListener('mouseover', printMouseCoordinates, false);
+</script>
+</body>
+</html>
